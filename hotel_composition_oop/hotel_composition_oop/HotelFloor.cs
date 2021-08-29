@@ -8,19 +8,25 @@ using System.Threading.Tasks;
 
 public class HotelFloor
 {
-    private int floorNumber;
+    private readonly int floorNumber;
 
-    private List<HotelRoom> hotelRooms;
+    private readonly List<HotelRoom> hotelRooms;
 
     public HotelFloor(int floorNumber)
     {
-        this.FloorNumber = floorNumber;
+        this.floorNumber = floorNumber;
         hotelRooms = new();
     }
 
-    public int FloorNumber { get; }
+    public int FloorNumber
+    {
+        get 
+        {
+            return floorNumber; 
+        }
+    }
 
-    public void AddRoomsToFloor(int floorNumber, HotelRoom room)
+    public void AddRoomsToFloor(HotelRoom room)
     {
         hotelRooms.Add(room);
     }
@@ -29,7 +35,7 @@ public class HotelFloor
     {
         foreach (var currentRoom in this.hotelRooms.ToList())
         {
-            if(currentRoom.FloorNumber == floorNumber&& currentRoom.RoomNumber == roomNumber)
+            if (currentRoom.FloorNumber == floorNumber && currentRoom.RoomNumber == roomNumber)
             {
                 hotelRooms.Remove(currentRoom);
                 Console.WriteLine($"{currentRoom} has been removed");
@@ -37,7 +43,7 @@ public class HotelFloor
         }
     }
 
-public void HotelRoomPrint()
+    public void HotelRoomPrint()
     {
         foreach (var room in hotelRooms)
         {

@@ -36,7 +36,7 @@ public class Hotel
         }
 
 
-        floor.AddRoomsToFloor(floorNumber, room);
+        floor.AddRoomsToFloor(room);
         hotelFloors.Add(floor);
 
     }
