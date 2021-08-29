@@ -22,7 +22,7 @@ public class Hotel
     {
         HotelFloor floor = null;
 
-        foreach (var currentFloor in this.hotelFloors)
+        foreach (var currentFloor in hotelFloors)
         {
             if (currentFloor.FloorNumber == floorNumber)
             {
@@ -30,7 +30,8 @@ public class Hotel
                 break;
             }
         }
-        if (!hotelFloors.Contains(floor))
+
+        if (floor == null)
         {
             floor = new HotelFloor(floorNumber);
         }
