@@ -31,11 +31,11 @@ public class HotelFloor
         hotelRooms.Add(room);
     }
 
-    public void RemoveRoom(int floorNumber, int roomNumber)
+    public void RemoveRoom(int roomNumber)
     {
         foreach (var currentRoom in this.hotelRooms.ToList())
         {
-            if (currentRoom.FloorNumber == floorNumber && currentRoom.RoomNumber == roomNumber)
+            if (currentRoom.RoomNumber == roomNumber)
             {
                 hotelRooms.Remove(currentRoom);
                 Console.WriteLine($"{currentRoom} has been removed");

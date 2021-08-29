@@ -49,7 +49,7 @@ public class Hotel
         {
             if (currentFloor.FloorNumber == floorNumber)
             {
-                currentFloor.RemoveRoom(floorNumber, roomNumber);
+                currentFloor.RemoveRoom(roomNumber);
 
             }
         }
