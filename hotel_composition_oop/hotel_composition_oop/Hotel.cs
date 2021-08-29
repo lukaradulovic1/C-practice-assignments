@@ -60,7 +60,7 @@ public class Hotel
     {
         for (int i = 0; i < hotelFloors.Count; i++)
         {
-            hotelFloors[i].HotelRoomPrint();
+            hotelFloors[i].PrintHotelRooms();
         }
         Console.WriteLine();
     }

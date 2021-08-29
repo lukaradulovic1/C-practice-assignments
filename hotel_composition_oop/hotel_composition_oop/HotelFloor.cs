@@ -43,7 +43,7 @@ public class HotelFloor
         }
     }
 
-    public void HotelRoomPrint()
+    public void PrintHotelRooms()
     {
         foreach (var room in hotelRooms)
         {
