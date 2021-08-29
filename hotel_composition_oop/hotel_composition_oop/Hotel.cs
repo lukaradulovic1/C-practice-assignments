@@ -66,17 +66,15 @@ public class Hotel
         Console.WriteLine();
     }
 
-    public void PrintHotelFile(List<HotelRoom> hotelSpecList)
+    public void PrintHotelFile(string path)
     {
-        List<HotelRoom> hotelList = hotelSpecList;
-        var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
 
         using var sw = new StreamWriter(path);
 
-        foreach (var hotelData in hotelList)
+        foreach (var floor in hotelFloors)
         {
-            sw.WriteLine("\n" + hotelData);
-            Console.WriteLine($"Line has been written");
+            sw.WriteLine("\n" + floor);
+            Console.WriteLine("File has been written");
         }
     }
 

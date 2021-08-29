@@ -10,6 +10,7 @@ class Program
         var hotel = new Hotel();
         List<HotelRoom> hotelSpecList = new List<HotelRoom>();
         int inputResult = 0;
+        var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
         while (loopContinue)
         {
             
@@ -67,7 +68,7 @@ class Program
                 //write  hotel spec to txt
                 case "4":
                     {
-                        hotel.PrintHotelFile(hotelSpecList);
+                        hotel.PrintHotelFile(path);
                         loopContinue = true;
                         break;
                     }
