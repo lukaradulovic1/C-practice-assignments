@@ -9,7 +9,7 @@ class Program
 
         var hotel = new Hotel();
         List<HotelRoom> hotelSpecList = new List<HotelRoom>();
-        int inputResult = 0;
+       
         var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
         while (showMainMenu)
         {
@@ -17,7 +17,7 @@ class Program
             Console.WriteLine("Press 1 to create room.\nPress 2 to remove room.\nPress 3 to print hotel specifications.\nPress 4 to print hotel specifications to txt file.\nPress 5 to clear all.\nPress 6 to exit.\n");
             string inputKey = Console.ReadLine();
 
-            int.TryParse(inputKey, out inputResult);
+           
 
             switch (inputKey)
             {
