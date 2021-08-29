@@ -43,14 +43,17 @@ public class HotelFloor
         }
     }
 
-    public void PrintHotelRooms()
+    
+
+    public override string ToString()
     {
+        string str = "";
         foreach (var room in hotelRooms)
         {
-            Console.WriteLine(room.ToString());
+            str+= room.ToString();
         }
+        return str;
     }
-
 
 }
 

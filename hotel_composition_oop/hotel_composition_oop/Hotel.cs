@@ -61,7 +61,7 @@ public class Hotel
     {
         for (int i = 0; i < hotelFloors.Count; i++)
         {
-            hotelFloors[i].PrintHotelRooms();
+            Console.WriteLine(hotelFloors[i].ToString());
         }
         Console.WriteLine();
     }
@@ -73,7 +73,7 @@ public class Hotel
 
         foreach (var floor in hotelFloors)
         {
-            sw.WriteLine("\n" + floor);
+            sw.WriteLine("\n" + floor.ToString());
             Console.WriteLine("File has been written");
         }
     }
