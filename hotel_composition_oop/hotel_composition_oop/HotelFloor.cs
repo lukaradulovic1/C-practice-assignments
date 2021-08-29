@@ -26,12 +26,12 @@ public class HotelFloor
         }
     }
 
-    public void AddRoomsToFloor(HotelRoom room)
+    public void AddRoom(HotelRoom room)
     {
         hotelRooms.Add(room);
     }
 
-    public void RemoveRoomFromFloor(int floorNumber, int roomNumber)
+    public void RemoveRoom(int floorNumber, int roomNumber)
     {
         foreach (var currentRoom in this.hotelRooms.ToList())
         {

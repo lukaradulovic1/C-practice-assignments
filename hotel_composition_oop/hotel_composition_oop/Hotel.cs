@@ -36,7 +36,7 @@ public class Hotel
         }
 
 
-        floor.AddRoomsToFloor(room);
+        floor.AddRoom(room);
         hotelFloors.Add(floor);
 
     }
@@ -48,7 +48,7 @@ public class Hotel
         {
             if (currentFloor.FloorNumber == floorNumber)
             {
-                currentFloor.RemoveRoomFromFloor(floorNumber, roomNumber);
+                currentFloor.RemoveRoom(floorNumber, roomNumber);
 
             }
         }
