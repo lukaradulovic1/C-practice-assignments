@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "grade_overload_function/1.0.0": {
+        "runtime": {
+          "grade_overload_function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grade_overload_function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

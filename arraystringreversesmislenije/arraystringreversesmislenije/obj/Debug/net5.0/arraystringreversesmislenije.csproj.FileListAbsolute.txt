@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.exe
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.deps.json
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.runtimeconfig.json
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.dll
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\ref\arraystringreversesmislenije.dll
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\bin\Debug\net5.0\arraystringreversesmislenije.pdb
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.AssemblyInfo.cs
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.dll
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\ref\arraystringreversesmislenije.dll
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.pdb
+C:\Users\Luka\source\repos\arraystringreversesmislenije\arraystringreversesmislenije\obj\Debug\net5.0\arraystringreversesmislenije.genruntimeconfig.cache

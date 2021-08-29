@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.exe
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.deps.json
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.runtimeconfig.json
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.dll
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\ref\grade_single.dll
+C:\Users\Luka\source\repos\grade_single\grade_single\bin\Debug\net5.0\grade_single.pdb
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.AssemblyInfo.cs
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.dll
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\ref\grade_single.dll
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.pdb
+C:\Users\Luka\source\repos\grade_single\grade_single\obj\Debug\net5.0\grade_single.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ant_mover_program/1.0.0": {
+        "runtime": {
+          "ant_mover_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ant_mover_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

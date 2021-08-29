@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Grades_to_students_print_read_text_file/1.0.0": {
+        "runtime": {
+          "Grades_to_students_print_read_text_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grades_to_students_print_read_text_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.exe
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.deps.json
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.runtimeconfig.json
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.dll
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\ref\arraymergetestconc.dll
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\bin\Debug\net5.0\arraymergetestconc.pdb
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.AssemblyInfo.cs
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.dll
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\ref\arraymergetestconc.dll
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.pdb
+C:\Users\Luka\source\repos\arraymergetestconc\arraymergetestconc\obj\Debug\net5.0\arraymergetestconc.genruntimeconfig.cache

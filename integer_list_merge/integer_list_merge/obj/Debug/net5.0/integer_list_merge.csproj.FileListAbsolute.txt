@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.exe
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.deps.json
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.runtimeconfig.json
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.dll
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\ref\integer_list_merge.dll
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\bin\Debug\net5.0\integer_list_merge.pdb
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.AssemblyInfo.cs
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.dll
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\ref\integer_list_merge.dll
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.pdb
+C:\Users\Luka\source\repos\integer_list_merge\integer_list_merge\obj\Debug\net5.0\integer_list_merge.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.exe
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.deps.json
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.runtimeconfig.json
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.dll
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\ref\composition_test.dll
+C:\Users\Luka\source\repos\composition_test\composition_test\bin\Debug\net5.0\composition_test.pdb
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.AssemblyInfo.cs
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.dll
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\ref\composition_test.dll
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.pdb
+C:\Users\Luka\source\repos\composition_test\composition_test\obj\Debug\net5.0\composition_test.genruntimeconfig.cache

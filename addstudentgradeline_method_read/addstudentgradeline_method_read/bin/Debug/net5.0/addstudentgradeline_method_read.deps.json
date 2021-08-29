@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "addstudentgradeline_method_read/1.0.0": {
+        "runtime": {
+          "addstudentgradeline_method_read.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "addstudentgradeline_method_read/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

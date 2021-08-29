@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "integer _list_merge/1.0.0": {
+        "runtime": {
+          "integer _list_merge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "integer _list_merge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

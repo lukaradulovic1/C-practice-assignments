@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.exe
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.deps.json
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.runtimeconfig.json
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.dll
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\ref\list_string_merge.dll
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\bin\Debug\net5.0\list_string_merge.pdb
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.dll
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\ref\list_string_merge.dll
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.pdb
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.genruntimeconfig.cache
+C:\Users\Luka\source\repos\list_string_merge\list_string_merge\obj\Debug\net5.0\list_string_merge.csproj.AssemblyReference.cache

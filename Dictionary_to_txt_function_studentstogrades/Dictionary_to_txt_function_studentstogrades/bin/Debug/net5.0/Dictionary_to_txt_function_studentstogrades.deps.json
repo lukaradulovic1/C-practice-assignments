@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dictionary_to_txt_function_studentstogrades/1.0.0": {
+        "runtime": {
+          "Dictionary_to_txt_function_studentstogrades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_to_txt_function_studentstogrades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

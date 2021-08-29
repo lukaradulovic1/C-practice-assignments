@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.exe
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.deps.json
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.runtimeconfig.json
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.dll
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\ref\list_sort.dll
+C:\Users\Luka\source\repos\list_sort\list_sort\bin\Debug\net5.0\list_sort.pdb
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.dll
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\ref\list_sort.dll
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.pdb
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.genruntimeconfig.cache
+C:\Users\Luka\source\repos\list_sort\list_sort\obj\Debug\net5.0\list_sort.csproj.AssemblyReference.cache

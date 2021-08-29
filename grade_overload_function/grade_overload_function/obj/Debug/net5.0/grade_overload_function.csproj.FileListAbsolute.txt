@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.exe
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.deps.json
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.runtimeconfig.json
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.dll
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\ref\grade_overload_function.dll
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\bin\Debug\net5.0\grade_overload_function.pdb
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.AssemblyInfo.cs
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.dll
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\ref\grade_overload_function.dll
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.pdb
+C:\Users\Luka\source\repos\grade_overload_function\grade_overload_function\obj\Debug\net5.0\grade_overload_function.genruntimeconfig.cache

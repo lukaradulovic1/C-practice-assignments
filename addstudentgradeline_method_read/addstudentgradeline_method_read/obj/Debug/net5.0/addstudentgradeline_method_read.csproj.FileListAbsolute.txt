@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.exe
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.deps.json
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.runtimeconfig.json
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.dll
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\ref\addstudentgradeline_method_read.dll
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\bin\Debug\net5.0\addstudentgradeline_method_read.pdb
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.AssemblyInfo.cs
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.dll
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\ref\addstudentgradeline_method_read.dll
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.pdb
+C:\Users\Luka\source\repos\addstudentgradeline_method_read\addstudentgradeline_method_read\obj\Debug\net5.0\addstudentgradeline_method_read.genruntimeconfig.cache

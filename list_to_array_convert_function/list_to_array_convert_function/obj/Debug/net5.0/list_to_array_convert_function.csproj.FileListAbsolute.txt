@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.exe
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.deps.json
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.runtimeconfig.json
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.dll
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\ref\list_to_array_convert_function.dll
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\bin\Debug\net5.0\list_to_array_convert_function.pdb
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.dll
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\ref\list_to_array_convert_function.dll
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.pdb
+C:\Users\Luka\source\repos\list_to_array_convert_function\list_to_array_convert_function\obj\Debug\net5.0\list_to_array_convert_function.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addstudentgradeline_method_read", "addstudentgradeline_method_read\addstudentgradeline_method_read.csproj", "{215EC686-77A2-4EEA-ACF4-C9414054DB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215EC686-77A2-4EEA-ACF4-C9414054DB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215EC686-77A2-4EEA-ACF4-C9414054DB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215EC686-77A2-4EEA-ACF4-C9414054DB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215EC686-77A2-4EEA-ACF4-C9414054DB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8743FEE4-5BD1-493F-B856-61F0D62A85A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "invent_file_student_to_grade_dictionary_file/1.0.0": {
+        "runtime": {
+          "invent_file_student_to_grade_dictionary_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "invent_file_student_to_grade_dictionary_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

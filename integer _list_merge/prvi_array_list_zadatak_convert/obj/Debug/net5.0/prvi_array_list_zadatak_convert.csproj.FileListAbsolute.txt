@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.exe
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.deps.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.runtimeconfig.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\ref\prvi_array_list_zadatak_convert.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\prvi_array_list_zadatak_convert.pdb
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.AssemblyInfo.cs
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\ref\prvi_array_list_zadatak_convert.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.pdb
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.genruntimeconfig.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\prvi_array_list_zadatak_convert.csproj.AssemblyReference.cache

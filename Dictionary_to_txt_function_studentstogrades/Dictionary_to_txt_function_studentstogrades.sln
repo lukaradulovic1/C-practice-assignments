@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_to_txt_function_studentstogrades", "Dictionary_to_txt_function_studentstogrades\Dictionary_to_txt_function_studentstogrades.csproj", "{DB0D116B-9C50-4169-9D95-DF6350565D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0D116B-9C50-4169-9D95-DF6350565D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0D116B-9C50-4169-9D95-DF6350565D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0D116B-9C50-4169-9D95-DF6350565D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0D116B-9C50-4169-9D95-DF6350565D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257046A4-BECE-4876-A5D8-1C65AF4F31B9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.exe
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.deps.json
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.runtimeconfig.json
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.dll
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\ref\5najmanjih.dll
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\bin\Debug\net5.0\5najmanjih.pdb
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.AssemblyInfo.cs
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.dll
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\ref\5najmanjih.dll
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.pdb
+C:\Users\Luka\source\repos\5najmanjih\5najmanjih\obj\Debug\net5.0\5najmanjih.genruntimeconfig.cache

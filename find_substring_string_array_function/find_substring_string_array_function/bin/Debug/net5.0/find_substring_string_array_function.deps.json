@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "find_substring_string_array_function/1.0.0": {
+        "runtime": {
+          "find_substring_string_array_function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "find_substring_string_array_function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

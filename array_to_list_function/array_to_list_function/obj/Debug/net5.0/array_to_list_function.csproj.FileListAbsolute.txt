@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.exe
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.deps.json
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.runtimeconfig.json
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.dll
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\ref\array_to_list_function.dll
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\bin\Debug\net5.0\array_to_list_function.pdb
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.AssemblyInfo.cs
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.dll
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\ref\array_to_list_function.dll
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.pdb
+C:\Users\Luka\source\repos\array_to_list_function\array_to_list_function\obj\Debug\net5.0\array_to_list_function.genruntimeconfig.cache

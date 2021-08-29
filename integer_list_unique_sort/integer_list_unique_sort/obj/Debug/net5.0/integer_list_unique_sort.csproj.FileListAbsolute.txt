@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.exe
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.deps.json
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.runtimeconfig.json
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.dll
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\ref\integer_list_unique_sort.dll
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\bin\Debug\net5.0\integer_list_unique_sort.pdb
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.AssemblyInfo.cs
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.dll
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\ref\integer_list_unique_sort.dll
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.pdb
+C:\Users\Luka\source\repos\integer_list_unique_sort\integer_list_unique_sort\obj\Debug\net5.0\integer_list_unique_sort.genruntimeconfig.cache

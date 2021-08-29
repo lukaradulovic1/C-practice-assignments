@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer_list_merge", "integer_list_merge\integer_list_merge.csproj", "{9E3E8420-4837-4518-9E64-21835AA488E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3E8420-4837-4518-9E64-21835AA488E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3E8420-4837-4518-9E64-21835AA488E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3E8420-4837-4518-9E64-21835AA488E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3E8420-4837-4518-9E64-21835AA488E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8D6415-EA7E-4D97-9A9B-C8D177A5E75C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "djole_array_zadatak5", "djole_array_zadatak5\djole_array_zadatak5.csproj", "{983B3800-CD92-4C62-B955-BE8242B9E34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983B3800-CD92-4C62-B955-BE8242B9E34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983B3800-CD92-4C62-B955-BE8242B9E34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983B3800-CD92-4C62-B955-BE8242B9E34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983B3800-CD92-4C62-B955-BE8242B9E34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA549628-B2EF-48F8-8A25-982D72C2E2D5}
+	EndGlobalSection
+EndGlobal

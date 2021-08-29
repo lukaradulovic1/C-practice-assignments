@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.exe
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.deps.json
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.runtimeconfig.json
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.dll
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\ref\converter_of_seconds.dll
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\bin\Debug\net5.0\converter_of_seconds.pdb
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.AssemblyInfo.cs
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.dll
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\ref\converter_of_seconds.dll
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.pdb
+C:\Users\Luka\source\repos\converter_of_seconds\converter_of_seconds\obj\Debug\net5.0\converter_of_seconds.genruntimeconfig.cache

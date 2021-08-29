@@ -1,0 +1,32 @@
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.exe
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.deps.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.runtimeconfig.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\ref\integer _list_merge.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.pdb
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.AssemblyInfo.cs
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\ref\integer _list_merge.dll
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.pdb
+C:\Users\Luka\source\repos\prvi_array_list_zadatak_convert\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.genruntimeconfig.cache
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.exe
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.deps.json
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.runtimeconfig.json
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.dll
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\ref\integer _list_merge.dll
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\bin\Debug\net5.0\integer _list_merge.pdb
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.AssemblyInfo.cs
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.dll
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\ref\integer _list_merge.dll
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.pdb
+C:\Users\Luka\source\repos\integer _list_merge\prvi_array_list_zadatak_convert\obj\Debug\net5.0\integer _list_merge.genruntimeconfig.cache

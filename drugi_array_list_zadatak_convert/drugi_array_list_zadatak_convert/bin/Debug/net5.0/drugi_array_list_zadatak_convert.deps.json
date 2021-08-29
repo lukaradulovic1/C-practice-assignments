@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "drugi_array_list_zadatak_convert/1.0.0": {
+        "runtime": {
+          "drugi_array_list_zadatak_convert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "drugi_array_list_zadatak_convert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

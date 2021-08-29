@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.exe
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.deps.json
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.runtimeconfig.json
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.dll
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\ref\list_string_token_search.dll
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\bin\Debug\net5.0\list_string_token_search.pdb
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.dll
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\ref\list_string_token_search.dll
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.pdb
+C:\Users\Luka\source\repos\list_string_token_search\list_string_token_search\obj\Debug\net5.0\list_string_token_search.genruntimeconfig.cache

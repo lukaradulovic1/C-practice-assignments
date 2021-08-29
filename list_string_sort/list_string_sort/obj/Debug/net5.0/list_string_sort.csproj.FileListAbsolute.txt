@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.exe
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.deps.json
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.runtimeconfig.json
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.dll
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\ref\list_string_sort.dll
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\bin\Debug\net5.0\list_string_sort.pdb
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.dll
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\ref\list_string_sort.dll
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.pdb
+C:\Users\Luka\source\repos\list_string_sort\list_string_sort\obj\Debug\net5.0\list_string_sort.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.exe
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.deps.json
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.runtimeconfig.json
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.dll
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\ref\list_find_substring.dll
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\bin\Debug\net5.0\list_find_substring.pdb
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.AssemblyInfo.cs
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.dll
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\ref\list_find_substring.dll
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.pdb
+C:\Users\Luka\source\repos\list_find_substring\list_find_substring\obj\Debug\net5.0\list_find_substring.genruntimeconfig.cache

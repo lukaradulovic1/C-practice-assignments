@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.exe
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.deps.json
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.runtimeconfig.json
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.dll
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\ref\djole_string_array_zadatak_4.dll
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\bin\Debug\net5.0\djole_string_array_zadatak_4.pdb
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.AssemblyInfo.cs
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.dll
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\ref\djole_string_array_zadatak_4.dll
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.pdb
+C:\Users\Luka\source\repos\djole_string_array_zadatak_3\djole_string_array_zadatak_3\obj\Debug\net5.0\djole_string_array_zadatak_4.genruntimeconfig.cache

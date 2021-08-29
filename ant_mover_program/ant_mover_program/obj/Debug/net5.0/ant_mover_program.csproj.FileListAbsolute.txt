@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.exe
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.deps.json
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.runtimeconfig.json
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.dll
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ref\ant_mover_program.dll
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\bin\Debug\net5.0\ant_mover_program.pdb
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.AssemblyInfo.cs
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.dll
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ref\ant_mover_program.dll
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.pdb
+C:\Users\Luka\source\repos\ant_mover_program\ant_mover_program\obj\Debug\net5.0\ant_mover_program.genruntimeconfig.cache

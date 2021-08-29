@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.exe
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.deps.json
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.runtimeconfig.json
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.dll
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\ref\insertsort1.dll
+C:\Users\Luka\source\repos\insertsort1\insertsort1\bin\Debug\net5.0\insertsort1.pdb
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.AssemblyInfo.cs
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.dll
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\ref\insertsort1.dll
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.pdb
+C:\Users\Luka\source\repos\insertsort1\insertsort1\obj\Debug\net5.0\insertsort1.genruntimeconfig.cache

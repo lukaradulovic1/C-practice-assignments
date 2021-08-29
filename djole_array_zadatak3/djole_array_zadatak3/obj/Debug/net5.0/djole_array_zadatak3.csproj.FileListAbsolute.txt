@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.exe
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.deps.json
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.runtimeconfig.json
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.dll
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\ref\djole_array_zadatak3.dll
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\bin\Debug\net5.0\djole_array_zadatak3.pdb
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.AssemblyInfo.cs
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.dll
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\ref\djole_array_zadatak3.dll
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.pdb
+C:\Users\Luka\source\repos\djole_array_zadatak3\djole_array_zadatak3\obj\Debug\net5.0\djole_array_zadatak3.genruntimeconfig.cache

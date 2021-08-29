@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.exe
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.deps.json
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.runtimeconfig.json
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.dll
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\ref\enum_grades_abcd.dll
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\bin\Debug\net5.0\enum_grades_abcd.pdb
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.AssemblyInfo.cs
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.dll
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\ref\enum_grades_abcd.dll
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.pdb
+C:\Users\Luka\source\repos\enum_grades_abcd\enum_grades_abcd\obj\Debug\net5.0\enum_grades_abcd.genruntimeconfig.cache

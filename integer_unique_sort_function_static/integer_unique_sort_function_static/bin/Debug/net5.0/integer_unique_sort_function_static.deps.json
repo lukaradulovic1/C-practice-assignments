@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "integer_unique_sort_function_static/1.0.0": {
+        "runtime": {
+          "integer_unique_sort_function_static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "integer_unique_sort_function_static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
