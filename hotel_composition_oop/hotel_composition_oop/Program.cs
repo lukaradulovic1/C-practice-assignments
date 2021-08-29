@@ -5,13 +5,13 @@ class Program
 {
     static void Main()
     {
-        bool loopContinue = true;
+        bool showMainMenu = true;
 
         var hotel = new Hotel();
         List<HotelRoom> hotelSpecList = new List<HotelRoom>();
         int inputResult = 0;
         var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
-        while (loopContinue)
+        while (showMainMenu)
         {
             
             Console.WriteLine("Press 1 to create room.\nPress 2 to remove room.\nPress 3 to print hotel specifications.\nPress 4 to print hotel specifications to txt file.\nPress 5 to clear all.\nPress 6 to exit.\n");
@@ -40,7 +40,7 @@ class Program
                         var room = new HotelRoom(floorNumber, roomNumber, guestNumber, occupancyStatus, durationOfStay, roomType);
                         hotel.AddRoom(floorNumber, room);
                         hotelSpecList.Add(room);
-                        loopContinue = true;
+                        showMainMenu = true;
                         break;
                     }
 
@@ -53,7 +53,7 @@ class Program
                         var floorNumber = int.Parse(Console.ReadLine());
                         var roomNumber = int.Parse(Console.ReadLine());
                         hotel.RemoveRoom(floorNumber, roomNumber);
-                        loopContinue = true;
+                        showMainMenu = true;
                         break;
                     }
                 // print hotel spec
@@ -61,7 +61,7 @@ class Program
                 case "3":
                     {
                         hotel.PrintHotelSpec();
-                        loopContinue = true;
+                        showMainMenu = true;
                         Console.WriteLine();
                         break;
                     }
@@ -69,24 +69,24 @@ class Program
                 case "4":
                     {
                         hotel.PrintHotelFile(path);
-                        loopContinue = true;
+                        showMainMenu = true;
                         break;
                     }
                 // clear entire hotel
                 case "5":
                     {
                         hotel.ClearAllData();
-                        loopContinue = true;
+                        showMainMenu = true;
                         break;
                     }
                 case "6":
-                    loopContinue = false;
+                    showMainMenu = false;
                     break;
 
                 default:
                     Console.WriteLine("You have made a wrong input, try again.");
                     Console.WriteLine();
-                    loopContinue = true;
+                    showMainMenu = true;
                     break;
             }
 
