@@ -66,7 +66,6 @@ public class Hotel
     }
 
     public void PrintHotelFile(List<HotelRoom> hotelSpecList)
-
     {
         List<HotelRoom> hotelList = hotelSpecList;
         var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
@@ -78,7 +77,6 @@ public class Hotel
             sw.WriteLine("\n" + hotelData);
             Console.WriteLine($"Line has been written");
         }
-        
     }
 
     public void ClearAllData()
@@ -89,7 +87,7 @@ public class Hotel
         }
         else
         {
-            hotelFloors.Clear(); 
+            hotelFloors.Clear();
             Console.WriteLine("The hotel data list is now empty.");
             Console.WriteLine("Press 5 again to confirm.\n");
         }
