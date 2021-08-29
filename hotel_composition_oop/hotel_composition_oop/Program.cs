@@ -8,7 +8,7 @@ class Program
         bool showMainMenu = true;
 
         var hotel = new Hotel();
-        List<HotelRoom> hotelSpecList = new List<HotelRoom>();
+        
        
         var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
         while (showMainMenu)
@@ -39,7 +39,7 @@ class Program
                         var roomType = (RoomType)Enum.Parse(typeof(RoomType), Console.ReadLine());
                         var room = new HotelRoom(floorNumber, roomNumber, guestNumber, occupancyStatus, durationOfStay, roomType);
                         hotel.AddRoom(floorNumber, room);
-                        hotelSpecList.Add(room);
+                        
                         showMainMenu = true;
                         break;
                     }
