@@ -8,7 +8,7 @@ using System.IO;
 public class Hotel
 {
     private readonly List<HotelFloor> hotelFloors;
-
+    private static readonly Hotel _instance = new Hotel();
 
 
     public Hotel()
@@ -17,6 +17,10 @@ public class Hotel
 
     }
 
+    public static Hotel GetHotel()
+    {
+        return _instance;
+    }
 
     public void AddRoom(int floorNumber, HotelRoom room)
     {

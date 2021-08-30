@@ -7,7 +7,7 @@ class Program
     {
         bool showMainMenu = true;
 
-        var hotel = new Hotel();
+        var hotel = Hotel.GetHotel();
 
 
         var path = @"C:\Users\Luka\Desktop\HotelDataPrint.txt";
