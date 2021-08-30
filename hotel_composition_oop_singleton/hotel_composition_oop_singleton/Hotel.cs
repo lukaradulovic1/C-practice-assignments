@@ -11,7 +11,7 @@ public class Hotel
     private static readonly Hotel _instance = new Hotel();
 
 
-    public Hotel()
+    private Hotel()
     {
         hotelFloors = new();
 
