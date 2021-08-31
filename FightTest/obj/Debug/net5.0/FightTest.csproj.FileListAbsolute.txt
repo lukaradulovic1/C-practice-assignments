@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.exe
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.deps.json
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.runtimeconfig.json
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.dll
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\ref\FightTest.dll
+C:\Users\Luka\source\repos\FightTest\FightTest\bin\Debug\net5.0\FightTest.pdb
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.AssemblyInfo.cs
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.dll
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\ref\FightTest.dll
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.pdb
+C:\Users\Luka\source\repos\FightTest\FightTest\obj\Debug\net5.0\FightTest.genruntimeconfig.cache
