@@ -7,7 +7,7 @@ public class EntryPoint
     static void Main()
     {
         Warrior firstGuy = new Warrior();
-
+        Warrior.id++;
         Console.WriteLine(Warrior.id);
         
         Warrior secondGuy = new Warrior(200, 100);
