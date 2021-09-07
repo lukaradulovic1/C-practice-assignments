@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.exe
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.deps.json
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.runtimeconfig.json
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.dll
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\ref\udemyCoursePractice.dll
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\bin\Debug\net5.0\udemyCoursePractice.pdb
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.AssemblyInfo.cs
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.dll
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\ref\udemyCoursePractice.dll
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.pdb
+C:\Users\Luka\source\repos\udemyCoursePractice\udemyCoursePractice\obj\Debug\net5.0\udemyCoursePractice.genruntimeconfig.cache
