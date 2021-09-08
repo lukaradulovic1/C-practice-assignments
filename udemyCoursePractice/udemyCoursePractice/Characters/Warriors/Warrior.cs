@@ -9,12 +9,10 @@ namespace Characters.Warriors
 {
     public class Warrior
     {
-        
-
+        //static field
         private static int idCounter;
-
-
-        public static int id;
+        //fields
+        private readonly int id;
         private int height;
         private int weight;
         private int age;
@@ -22,7 +20,7 @@ namespace Characters.Warriors
         private Sword swordWeapon;
 
 
-
+        //constructors
         public Warrior()
         : this(180, 95)
         {
@@ -37,28 +35,36 @@ namespace Characters.Warriors
         public Warrior(int height, int weight, string name)
 
         {
+            IdCounter++;
             this.Height = height;
             Weight = weight;
             Age = 18;
             Name = name;
             this.swordWeapon = new Sword();
+            id = IdCounter;
         }
 
         public Warrior(int height, int weight, string name, int age, Sword weapon)
         {
-            
-            
+
+            IdCounter++;
             this.Height = height;
             this.Weight = weight;
             this.Name = name;
             this.Age = age;
             this.Weapon = weapon;
-            id++;
-
-
-
+            id = IdCounter;
         }
 
+        //properties
+        public int Id
+        {
+            get
+            {
+                return this.id;
+            }
+
+        }
         public int Height
         {
             get
@@ -125,6 +131,19 @@ namespace Characters.Warriors
                 swordWeapon = value;
             }
         }
+
+        public static int IdCounter
+        {
+            get
+            {
+                return Warrior.idCounter;
+            }
+            private set
+            {
+                Warrior.idCounter = value;
+            }
+        }
+
 
         public void Greetings(Warrior warrior)
         {

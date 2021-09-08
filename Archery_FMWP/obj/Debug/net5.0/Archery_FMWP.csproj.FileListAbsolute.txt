@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\ref\Archery_FMWP.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\bin\Debug\net5.0\Archery_FMWP.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\ref\Archery_FMWP.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Archery_FMWP\obj\Debug\net5.0\Archery_FMWP.genruntimeconfig.cache

@@ -7,16 +7,18 @@ public class EntryPoint
     static void Main()
     {
         Warrior firstGuy = new Warrior();
-        Warrior.id++;
-        Console.WriteLine(Warrior.id);
+
+        
         
         Warrior secondGuy = new Warrior(200, 100);
-        Console.WriteLine(Warrior.id);
+        
         
         Warrior thirdGuy = new Warrior(180, 200);
         thirdGuy.Name = "Yo soy en guerro";
 
-        Console.WriteLine(Warrior.id);
+        Console.WriteLine(firstGuy.Id);
+        Console.WriteLine(secondGuy.Id);
+        Console.WriteLine(thirdGuy.Id);
 
 
 
