@@ -49,10 +49,30 @@ class Arrow
         }
 
     }
-
-    public void Release()
+    //Release method which sets all the arrow parameters and releases the arrow, 
+    public void Release(double distanceFromTarget)
     {
+        this.velocity = 150;
+        this.distanceFromTarget = distanceFromTarget;
+
+        //randomizing accuracy 
+        Random randomAccuracyValue = new Random();
+        this.accuracy = randomAccuracyValue.NextDouble();
+
+        //bool 
+        this.arrowReleased = true;
+        this.arrowHit = false;
+
         this.hitProbability = Math.Pow(Math.E, Math.Pow(-(2 * distanceFromTarget / MAXDISTANCE / accuracy), 2));
+
+        if(hitProbability > 0)
+        {
+            this.arrowHit = true;
+        }
+        if(distanceFromTarget <= 0)
+        {
+            this.distanceFromTarget = 0;
+        }
     }
     public void Update()
     {

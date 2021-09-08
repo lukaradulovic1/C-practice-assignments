@@ -11,6 +11,9 @@ namespace Characters.Warriors
     {
         //static field
         private static int idCounter;
+        //constants
+        private const int DEFAULT_HEIGHT = 180;
+        private const int DEFAULT_WEIGHT = 95;
         //fields
         private readonly int id;
         private int height;
@@ -22,7 +25,7 @@ namespace Characters.Warriors
 
         //constructors
         public Warrior()
-        : this(180, 95)
+        : this(DEFAULT_HEIGHT, DEFAULT_WEIGHT)
         {
 
         }
