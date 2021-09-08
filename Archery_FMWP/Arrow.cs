@@ -65,14 +65,11 @@ class Arrow
 
         this.hitProbability = Math.Pow(Math.E, Math.Pow(-(2 * distanceFromTarget / MAXDISTANCE / accuracy), 2));
 
-        if(hitProbability > 0)
+        if(hitProbability > 0 && distanceFromTarget == 0)
         {
             this.arrowHit = true;
         }
-        if(distanceFromTarget <= 0)
-        {
-            this.distanceFromTarget = 0;
-        }
+
     }
     public void Update()
     {
