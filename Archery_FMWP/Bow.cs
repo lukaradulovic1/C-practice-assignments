@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-class Bow
+public class Bow
 {
     private Arrow loadedArrow;
 

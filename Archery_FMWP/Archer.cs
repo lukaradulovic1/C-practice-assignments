@@ -1,10 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
-class Archer
+public class Archer
 {
     private List<Arrow> arrows;
     private Bow bow;
-    private float accuracy;
+    private double accuracy;
     private float arrowVelocity;
     private float distanceFromTarget;
 
@@ -18,6 +19,10 @@ class Archer
         }
          
     }
+
+    //randomizing accuracy 
+    Random randomAccuracyValue = new Random();
+    
     //methods
     public void LoadBow()
     {

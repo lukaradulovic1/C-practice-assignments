@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-class Arrow
+public class Arrow
 {
     private double hitProbability;
     private double velocity;
@@ -13,7 +13,7 @@ class Arrow
     private bool arrowReleased;
     private bool arrowHit;
     const double MAXDISTANCE = 300;
-    private double accuracy;
+    
 
 
     public double DistanceFromTarget
@@ -50,14 +50,12 @@ class Arrow
 
     }
     //Release method which sets all the arrow parameters and releases the arrow, 
-    public void Release(double distanceFromTarget)
+    public void Release(double distanceFromTarget, )
     {
         this.velocity = 150;
         this.distanceFromTarget = distanceFromTarget;
 
-        //randomizing accuracy 
-        Random randomAccuracyValue = new Random();
-        this.accuracy = randomAccuracyValue.NextDouble();
+
 
         //bool 
         this.arrowReleased = true;
