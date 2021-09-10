@@ -72,7 +72,25 @@ namespace MagicDestroyers.Characters.Melee
             }
         }
 
-        public void Strike()
+        public override int HealthPoints
+        {
+            get
+            {
+                return base.HealthPoints;
+            }
+            set
+            {
+                if (value >= 0 && value <= 150)
+                {
+                    base.HealthPoints = value;
+                }
+                else
+                {
+                    throw new ArgumentOutOfRangeException(string.Empty, "Inappropriate value, the value should be >= 0 and <= 100.");
+                }
+            }
+        }
+                public void Strike()
         {
 
         }

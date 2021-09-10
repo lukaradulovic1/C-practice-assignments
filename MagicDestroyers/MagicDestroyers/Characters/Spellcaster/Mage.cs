@@ -15,7 +15,7 @@ namespace MagicDestroyers.Characters.Spellcaster
         private const int DEFAULT_HEALTH_POINTS = 100;
         private readonly Staff DEFAULT_WEAPON = new Staff();
         private readonly LightLeatherWest DEFAULT_BODY_ARMOR = new LightLeatherWest();
-        //fields
+       
 
 
         private LightLeatherWest bodyArmor;

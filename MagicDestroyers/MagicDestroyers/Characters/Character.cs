@@ -15,7 +15,7 @@ namespace MagicDestroyers.Characters
         private Faction faction;
         private string name;
         // properties
-        public int HealthPoints
+        public virtual int HealthPoints
         {
             get
             {
