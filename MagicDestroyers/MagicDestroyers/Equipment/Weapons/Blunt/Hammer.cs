@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MagicDestroyers.Equipment.Weapons
 {
-    class Hammer
+    public class Hammer
     {
         private int weaponDamage;
 

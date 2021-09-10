@@ -1,15 +1,14 @@
-﻿using MagicDestroyers.Equipment.Armors;
-using MagicDestroyers.Equipment.Weapons;
+﻿
 using System;
 using Enumerations;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MagicDestroyers.Characters.Melee;
+using MagicDestroyers.Equipment.Armors;
 
-namespace MagicDestroyers
+using MagicDestroyers.Equipment.Weapons;
+
+namespace MagicDestroyers.Characters.Melee
 {
-    class Warrior
+    public class Warrior : Character
     {
         //constants
         private const string DEFAULT_NAME = "Mezer Glin";
@@ -22,11 +21,7 @@ namespace MagicDestroyers
 
         //private fiels
         private int abilityPoints;
-        private int healthPoints;
-        private int level;
 
-        private Faction faction;
-        private string name;
 
         private Chainlink bodyArmor;
         private Axe weapon;
@@ -66,76 +61,12 @@ namespace MagicDestroyers
                 }
                 else
                 {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input the ability points amount.");
+                    throw new ArgumentOutOfRangeException(Name, $"Incorrect input the ability points amount.");
                 }
             }
         }
 
-        public int HealthPoints
-        {
-            get
-            {
-                return this.healthPoints;
-            }
-            set
-            {
-                if (value >= 0 && value <= 100)
-                {
-                    this.healthPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input the health points amount.");
-                }
-            }
-        }
-        public int Level
-        {
-            get
-            {
-                return this.level;
-            }
-            set
-            {
-                if (value >= 0)
-                {
-                    this.level = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input for the character level.");
-                }
-            }
-        }
-        public Faction Faction
-        {
-            get
-            {
-                return this.faction;
-            }
-            set
-            {
 
-                    this.faction = value;
-                
-            }
-        }
-        public string Name
-        {
-            get
-            {
-                return this.name;
-            }
-
-            set
-            {
-                if (value.Length >= 3 && value.Length <= 12)
-                {
-                    this.name = value;
-                }
-            }
-
-        }
 
         public Axe Weapon
         {

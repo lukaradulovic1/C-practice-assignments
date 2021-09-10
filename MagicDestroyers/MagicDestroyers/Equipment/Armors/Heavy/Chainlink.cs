@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MagicDestroyers.Equipment.Armors
 {
-    class Chainlink
+   public class Chainlink
     {
         private int armorPoints;
 
