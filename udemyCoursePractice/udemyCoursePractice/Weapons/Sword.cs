@@ -1,25 +1,9 @@
-﻿
+﻿using Weapons;
+
 namespace Weapons
 {
-    public class Sword
+    public class Sword : Weapon
     {
-        private int damage;
-        
-        public Sword()
-        {
-            this.damage = 10;
-        }
-        public int Damage 
-        {
-            get 
-            { 
-                return damage; 
-            }
-            
-            private set
-            {
-                this.damage = value;
-            } 
-        }
+
     }
 }

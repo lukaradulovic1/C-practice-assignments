@@ -1,6 +1,7 @@
 ﻿using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Weapons;
 using System;
+using Enumerations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,23 +11,33 @@ namespace MagicDestroyers
 {
     class Warrior
     {
+        //constants
+        private const string DEFAULT_NAME = "Mezer Glin";
+        private const Faction DEFAULT_FACTION = Faction.Melee;
+        private const int DEFAULT_LEVEL = 1;
+        private const int DEFAULT_HEALTH_POINTS = 120;
+        private const int DEFAULT_ABILITY_POINTS = 100;
+        private readonly Chainlink DEFAULT_BODY_ARMOR = new Chainlink();
+        private readonly Axe DEFAULT_WEAPON = new Axe();
+
+        //private fiels
         private int abilityPoints;
         private int healthPoints;
         private int level;
 
-        private string faction;
+        private Faction faction;
         private string name;
 
         private Chainlink bodyArmor;
         private Axe weapon;
 
         public Warrior()
-            : this("Mezer Glin", 1)
+            : this(DEFAULT_NAME, DEFAULT_LEVEL)
         {
 
         }
         public Warrior(string name, int level)
-        : this(name, level, 120)
+        : this(name, level, DEFAULT_HEALTH_POINTS)
         {
 
         }
@@ -35,10 +46,10 @@ namespace MagicDestroyers
             this.Name = name;
             this.Level = level;
             this.HealthPoints = healthPoints;
-            this.Faction = "Melee";
-            this.AbilityPoints = 100;
-            this.Weapon = new Axe();
-            this.BodyArmor = new Chainlink();
+            this.Faction = DEFAULT_FACTION;
+            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            this.Weapon = DEFAULT_WEAPON;
+            this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
         public int AbilityPoints
@@ -96,7 +107,7 @@ namespace MagicDestroyers
                 }
             }
         }
-        public string Faction
+        public Faction Faction
         {
             get
             {
@@ -104,10 +115,9 @@ namespace MagicDestroyers
             }
             set
             {
-                if (value == "Melee" || value == "Spellcaster")
-                {
+
                     this.faction = value;
-                }
+                
             }
         }
         public string Name

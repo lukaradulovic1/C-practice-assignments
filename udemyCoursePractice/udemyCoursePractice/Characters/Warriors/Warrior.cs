@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Enumerations;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,23 +8,27 @@ using Weapons;
 
 namespace Characters.Warriors
 {
-    public class Warrior
+    public class Warrior : Character
     {
         //static field
         private static int idCounter;
         //constants
         private const int DEFAULT_HEIGHT = 180;
         private const int DEFAULT_WEIGHT = 95;
-        //fields
+        private const int DEFAULT_AGE = 18;
+        private const string DEFAULT_NAME = "Young Warrior";
+        private readonly Sword DEFAULT_SWORD_WEAPON = new Sword();
+
+        // fields
         private readonly int id;
         private int height;
-        private int weight;
-        private int age;
-        private string name;
+
+        
         private Sword swordWeapon;
+        private Faction faction;
 
 
-        //constructors
+        // constructors
         public Warrior()
         : this(DEFAULT_HEIGHT, DEFAULT_WEIGHT)
         {
@@ -31,7 +36,7 @@ namespace Characters.Warriors
         }
 
         public Warrior(int height, int weight)
-        : this(height, weight, "Young Warrior")
+        : this(height, weight, DEFAULT_NAME, Faction.Default)
         {
 
         }
@@ -39,27 +44,46 @@ namespace Characters.Warriors
 
         {
             IdCounter++;
-            this.Height = height;
-            Weight = weight;
-            Age = 18;
-            Name = name;
-            this.swordWeapon = new Sword();
-            id = IdCounter;
-        }
-
-        public Warrior(int height, int weight, string name, int age, Sword weapon)
-        {
-
-            IdCounter++;
+            this.id = IdCounter;
             this.Height = height;
             this.Weight = weight;
             this.Name = name;
-            this.Age = age;
-            this.Weapon = weapon;
-            id = IdCounter;
+            this.Age = DEFAULT_AGE;
+            this.SwordWeapon = DEFAULT_SWORD_WEAPON;
+
+
         }
 
-        //properties
+        public Warrior(int height, int weight, string name, Faction faction)
+        {
+
+            IdCounter++;
+            this.id = IdCounter;
+            this.Height = height;
+            base.Weight = weight;
+            this.Name = name;
+            this.Faction = faction;
+            base.Age = DEFAULT_AGE;
+            this.SwordWeapon = DEFAULT_SWORD_WEAPON;
+
+            if (this.faction == Faction.GoodGuy)
+            {
+                base.HealhtPoints = 120;
+            }
+            else if (this.faction == Faction.BadGuy)
+            {
+                base.HealhtPoints = 100;
+            }
+
+        }
+
+        public Warrior(int healthPoints, int weight, int age)
+        : base(healthPoints, weight, age)
+        {
+            
+        }
+
+        // properties
         public int Id
         {
             get
@@ -79,51 +103,10 @@ namespace Characters.Warriors
                 height = value;
             }
         }
-        public int Weight
-        {
-            get
-            {
-                return weight;
-            }
-            set
-            {
-                weight = value;
-            }
-        }
 
-        public string Name
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
-        }
 
-        public int Age
-        {
-            get
-            {
-                return age;
-            }
-            set
-            {
-                if (value >= 18 && value <= 45)
-                {
-                    age = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(string.Empty, $"The selected age for {name} is not a proper age for a warrior.\nAge must be between 18 and 45.");
 
-                }
-            }
-        }
-
-        public Sword Weapon
+        public Sword SwordWeapon
         {
             get
             {
@@ -134,7 +117,6 @@ namespace Characters.Warriors
                 swordWeapon = value;
             }
         }
-
         public static int IdCounter
         {
             get
@@ -146,14 +128,41 @@ namespace Characters.Warriors
                 Warrior.idCounter = value;
             }
         }
-
-
-        public void Greetings(Warrior warrior)
+        public Faction Faction
         {
-            Console.WriteLine($"Greetings {warrior.Name}!");
+            get
+            {
+                return this.faction;
+            }
+            private set
+            {
+                this.faction = value;
+            }
         }
 
 
+
+        //methods
+        public void SpecialWarriorGreeting()
+        {
+            base.Greetings(base.Name);
+        }
+
+        public static void GetDefaultValues(Warrior warrior)
+        {
+            Console.WriteLine(
+                $"Default height is {DEFAULT_HEIGHT}\n" +
+                $"Default weight is {DEFAULT_WEIGHT}\n" +
+                $"Default age is {DEFAULT_AGE}\n" +
+                $"Default name is {DEFAULT_NAME} \n" +
+                $"Default weapon damage {warrior.DEFAULT_SWORD_WEAPON.Damage}");
+        }
+
+        public override void Move(int pauseBetweenMovements)
+        {
+            base.Move(pauseBetweenMovements);
+            Console.WriteLine("I just moved 10 times, I am a Warrior.");
+        }
 
     }
 }

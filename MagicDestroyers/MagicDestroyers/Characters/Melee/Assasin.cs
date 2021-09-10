@@ -1,32 +1,38 @@
 ﻿using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Weapons;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Enumerations;
 
 namespace MagicDestroyers.Characters.Melee
 {
     class Assasin
-    {
+    {   //constants
+        private const string DEFAULT_NAME = "Pierres the Resilient";
+        private const Faction DEFAULT_FACTION = Faction.Melee;
+        private const int DEFAULT_LEVEL = 1;
+        private const int DEFAULT_ABILITY_POINTS = 100;
+        private const int DEFAULT_HEALTH_POINTS = 120;
+        private readonly LightLeatherWest DEFAULT_BODY_ARMOR = new LightLeatherWest();
+        private readonly Sword DEFAULT_WEAPON = new Sword();
+
+        //fields
         private int abilityPoints;
         private int healthPoints;
         private int level;
 
-        private string faction;
+        private Faction faction;
         private string name;
 
         private LightLeatherWest bodyArmor;
         private Sword weapon;
 
         public Assasin()
-        : this("Pierres the Resilient", 1)
+        : this(DEFAULT_NAME, DEFAULT_LEVEL)
         {
 
         }
         public Assasin(string name, int level)
-            :this(name, level, 120)
+            : this(name, level, DEFAULT_HEALTH_POINTS)
         {
 
         }
@@ -35,10 +41,10 @@ namespace MagicDestroyers.Characters.Melee
             this.Name = name;
             this.Level = level;
             this.HealthPoints = healthPoints;
-            this.Faction = "Melee";
-            this.AbilityPoints = 100;
-            this.Weapon = new Sword();
-            this.BodyArmor = new LightLeatherWest();
+            this.Faction = DEFAULT_FACTION;
+            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            this.Weapon = DEFAULT_WEAPON;
+            this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
 
@@ -97,7 +103,7 @@ namespace MagicDestroyers.Characters.Melee
                 }
             }
         }
-        public string Faction
+        public Faction Faction
         {
             get
             {
@@ -105,10 +111,8 @@ namespace MagicDestroyers.Characters.Melee
             }
             set
             {
-                if (value == "Melee" || value == "Spellcaster")
-                {
                     this.faction = value;
-                }
+             
             }
         }
 

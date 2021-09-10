@@ -10,6 +10,8 @@ namespace MagicDestroyers
 
             Assasin assassin = new Assasin("locoloco", 10, 200);
             Console.WriteLine(assassin.Name + " " + assassin.Level + " " + assassin.HealthPoints);
+
+            
         }
     }
 }

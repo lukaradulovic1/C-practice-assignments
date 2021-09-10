@@ -1,45 +1,57 @@
 ﻿using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Weapons;
 using System;
+using Enumerations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Characters.Spellcasters
+namespace MagicDestroyers.Characters.Spellcaster
 {
-    class Necromancer
+    class Druid
     {
+        //constants 
+        private const string DEFAULT_NAME = "Ruairidh Duncans";
+        private const Faction DEFAULT_FACTION = Faction.Spellcaster;
+        private const int DEFAULT_LEVEL = 1;
+        private const int DEFAULT_ABILITY_POINTS = 100;
+        private const int DEFAULT_HEALTH_POINTS = 100;
+        private readonly Staff DEFAULT_WEAPON = new Staff();
+        private readonly ClothRobe DEFAULT_BODY_ARMOR = new ClothRobe();
+        //fields
         private int abilityPoints;
         private int healthPoints;
         private int level;
 
-        private string faction;
+        private Faction faction;
         private string name;
 
-        private LightLeatherWest bodyArmor;
-        private Sword weapon;
+        private ClothRobe bodyArmor;
+        private Staff weapon;
 
-        public Necromancer() 
-            :this("Xemien Maleficum", 1)
+        public Druid()
+            :this(DEFAULT_NAME, DEFAULT_LEVEL)
         {
 
         }
-        public Necromancer(string name, int level)
-            : this(name, level, 100)
+        public Druid(string name, int level)
+            :this(name, level, DEFAULT_HEALTH_POINTS)
         {
 
         }
-        public Necromancer(string name, int level, int healthPoints)
+        public Druid(string name, int level, int healthPoints)
         {
             this.Name = name;
             this.Level = level;
             this.HealthPoints = healthPoints;
-            this.Faction = "Melee";
-            this.AbilityPoints = 100;
-            this.Weapon = new Sword();
-            this.BodyArmor = new LightLeatherWest();
+            this.Faction = DEFAULT_FACTION;
+            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            this.Weapon = DEFAULT_WEAPON;
+            this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
+
+
         public int AbilityPoints
         {
             get
@@ -95,7 +107,7 @@ namespace MagicDestroyers.Characters.Spellcasters
                 }
             }
         }
-        public string Faction
+        public Faction Faction
         {
             get
             {
@@ -103,10 +115,7 @@ namespace MagicDestroyers.Characters.Spellcasters
             }
             set
             {
-                if (value == "Melee" || value == "Spellcaster")
-                {
-                    this.faction = value;
-                }
+                this.faction = value;
             }
         }
 
@@ -127,7 +136,7 @@ namespace MagicDestroyers.Characters.Spellcasters
 
         }
 
-        public LightLeatherWest BodyArmor
+        internal ClothRobe BodyArmor
         {
             get
             {
@@ -138,27 +147,26 @@ namespace MagicDestroyers.Characters.Spellcasters
                 this.bodyArmor = value;
             }
         }
-        public Sword Weapon
+        internal Staff Weapon
         {
             get
             {
-                return this.weapon;
+                return weapon;
             }
             set
             {
-                this.weapon = value;
+                weapon = value;
             }
         }
-
-        public void ShadowRage()
+        public void Moonfire()
         {
 
         }
-        public void VampireTouch()
+        public void Starburst()
         {
 
         }
-        public void BoneShield()
+        public void OneWithNature()
         {
 
         }

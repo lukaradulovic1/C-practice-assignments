@@ -1,44 +1,42 @@
 ﻿using Characters.Warriors;
 using System;
-
+using Characters.Spellcasters;
 public class EntryPoint
 {
 
     static void Main()
     {
+        //warriors
         Warrior firstGuy = new Warrior();
-
-        
-        
+       // firstGuy.Move(500);
         Warrior secondGuy = new Warrior(200, 100);
-        
-        
+
         Warrior thirdGuy = new Warrior(180, 200);
         thirdGuy.Name = "Yo soy en guerro";
 
-        Console.WriteLine(firstGuy.Id);
-        Console.WriteLine(secondGuy.Id);
-        Console.WriteLine(thirdGuy.Id);
+        Warrior fourthGuy = new Warrior(190, 100, "Mojito Cowboy", Enumerations.Faction.BadGuy);
 
+        //spellcasters
+        Mage mageBoi = new Mage(100, 60, 25);
+        
 
+        try
+        {
+            mageBoi.Age = 25;
+        }
+        catch (ArgumentOutOfRangeException ex)
+        {
 
-        //    Warrior theGoodGuy = new Warrior(190, 80, "Jeff the good guy");
-
-        //    Warrior theBadGuy = new Warrior(170, 100, "Bobby the bad guy");
-
-
-        //    theGoodGuy.Greetings(theGoodGuy);
-        //    theBadGuy.Greetings(theBadGuy);
-
-        //try
-        //{
-        //    theGoodGuy.Age = 60;
-        //    theBadGuy.Age = 20;
-        //}
-        //catch(ArgumentOutOfRangeException ex)
-        //{
-        //    Console.WriteLine(ex.Message);
-        //}
+            Console.WriteLine(ex.Message);
+        }
+        
+        Console.WriteLine(mageBoi.HealhtPoints + " " + mageBoi.Age + " " + mageBoi.Weight);
+        
+        Tools.ColorfulWriteLine(firstGuy.Id.ToString(), ConsoleColor.DarkBlue);
+        Tools.ColorfulWriteLine(secondGuy.Id.ToString(), ConsoleColor.Yellow);
+        Tools.ColorfulWriteLine(thirdGuy.Id.ToString(), ConsoleColor.Red);
+        Tools.ColorfulWriteLine(fourthGuy.Id.ToString(), ConsoleColor.Magenta);
+        
     }
 
 

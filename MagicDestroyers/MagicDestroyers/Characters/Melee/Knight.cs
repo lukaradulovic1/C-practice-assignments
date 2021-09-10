@@ -1,6 +1,7 @@
 ﻿using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Weapons;
 using System;
+using Enumerations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,24 +10,33 @@ using System.Threading.Tasks;
 namespace MagicDestroyers.Characters.Melee
 {
     class Knight
-    {
+    {   //constants
+        private const string DEFAULT_NAME = "Sir Bearmane";
+        private const Faction DEFAULT_FACTION = Faction.Melee;
+        private const int DEFAULT_LEVEL = 1;
+        private const int DEFAULT_ABILITY_POINTS = 100;
+        private const int DEFAULT_HEALTH_POINTS = 120;
+        private readonly Chainlink DEFAULT_BODY_ARMOR = new Chainlink();
+        private readonly Hammer DEFAULT_WEAPON = new Hammer();
+
+        //fields
         private int abilityPoints;
         private int healthPoints;
         private int level;
 
-        private string faction;
+        private Faction faction;
         private string name;
 
         private Chainlink bodyArmor;
         private Hammer weapon;
 
-        public Knight() 
-            :this ("Sir Bearmane", 1)
+        public Knight()
+            : this(DEFAULT_NAME, DEFAULT_LEVEL)
         {
 
         }
         public Knight(string name, int level)
-            :this (name,level, 120)
+            : this(name, level, 120)
         {
 
         }
@@ -34,11 +44,11 @@ namespace MagicDestroyers.Characters.Melee
         {
             this.Name = name;
             this.Level = level;
-            this.HealthPoints = healthPoints;
-            this.Faction = "Melee";
-            this.AbilityPoints = 100;
-            this.Weapon = new Hammer();
-            this.BodyArmor = new Chainlink();
+            this.HealthPoints = DEFAULT_HEALTH_POINTS;
+            this.Faction = DEFAULT_FACTION;
+            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            this.Weapon = DEFAULT_WEAPON;
+            this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
 
@@ -99,7 +109,7 @@ namespace MagicDestroyers.Characters.Melee
                 }
             }
         }
-        public string Faction
+        public Faction Faction
         {
             get
             {
@@ -107,10 +117,9 @@ namespace MagicDestroyers.Characters.Melee
             }
             set
             {
-                if (value == "Melee" || value == "Spellcaster")
-                {
-                    this.faction = value;
-                }
+
+                this.faction = value;
+
             }
         }
 
@@ -130,27 +139,27 @@ namespace MagicDestroyers.Characters.Melee
             }
 
         }
-        public Chainlink BodyArmor 
-        { 
-            get 
-            { 
-                return bodyArmor;
-            } 
-            set 
+        public Chainlink BodyArmor
+        {
+            get
             {
-                bodyArmor = value; 
-            } 
+                return bodyArmor;
+            }
+            set
+            {
+                bodyArmor = value;
+            }
         }
-        public Hammer Weapon 
-        { 
-            get 
-            { 
-                return weapon; 
-            } 
-            set 
-            { 
-                weapon = value; 
-            } 
+        public Hammer Weapon
+        {
+            get
+            {
+                return weapon;
+            }
+            set
+            {
+                weapon = value;
+            }
         }
 
         public void HolyBlow()

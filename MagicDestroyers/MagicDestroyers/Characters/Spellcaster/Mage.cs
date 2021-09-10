@@ -1,32 +1,41 @@
 ﻿using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Weapons;
 using System;
+using Enumerations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Characters.Spellcasters
+namespace MagicDestroyers.Characters.Spellcaster
 {
     class Mage
-    {
+    {   //constants 
+        private const string DEFAULT_NAME = "Griphiar";
+        private const Faction DEFAULT_FACTION = Faction.Spellcaster;
+        private const int DEFAULT_LEVEL = 1;
+        private const int DEFAULT_ABILITY_POINTS = 100;
+        private const int DEFAULT_HEALTH_POINTS = 100;
+        private readonly Staff DEFAULT_WEAPON = new Staff();
+        private readonly LightLeatherWest DEFAULT_BODY_ARMOR = new LightLeatherWest();
+        //fields
         private int abilityPoints;
         private int healthPoints;
         private int level;
 
-        private string faction;
+        private Faction faction;
         private string name;
 
         private LightLeatherWest bodyArmor;
         private Staff weapon;
 
         public Mage()
-            :this("Griphiar",1)
+            :this(DEFAULT_NAME, DEFAULT_LEVEL)
         {
 
         }
         public Mage(string name, int level)
-            :this(name, level, 100)
+            :this(name, level, DEFAULT_HEALTH_POINTS)
         {
 
         }
@@ -35,10 +44,10 @@ namespace MagicDestroyers.Characters.Spellcasters
             this.Name = name;
             this.Level = level;
             this.HealthPoints = healthPoints;
-            this.Faction = "Melee";
-            this.AbilityPoints = 100;
-            this.Weapon = new Staff();
-            this.BodyArmor = new LightLeatherWest();
+            this.Faction = DEFAULT_FACTION;
+            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            this.Weapon = DEFAULT_WEAPON;
+            this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
         public int AbilityPoints
         {
@@ -95,7 +104,7 @@ namespace MagicDestroyers.Characters.Spellcasters
                 }
             }
         }
-        public string Faction
+        public Faction Faction
         {
             get
             {
@@ -103,10 +112,7 @@ namespace MagicDestroyers.Characters.Spellcasters
             }
             set
             {
-                if (value == "Melee" || value == "Spellcaster")
-                {
-                    this.faction = value;
-                }
+                this.faction = value;
             }
         }
 
