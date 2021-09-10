@@ -8,16 +8,16 @@ namespace MagicDestroyers.Equipment.Weapons.Blunt
 {
     public class Staff : Blunt
     {
-        private const int DEFAULT_WEAPON_DAMAGE = 10;
+        private const int DEFAULT_DAMAGE_POINTS = 10;
 
         public Staff()
-            : this(DEFAULT_WEAPON_DAMAGE)
+            : this(DEFAULT_DAMAGE_POINTS)
         {
 
         }
         public Staff(int damagePoints)
         {
-            this.WeaponDamage = damagePoints;
+            this.DamagePoints = damagePoints;
         }
 
         public void Empower()

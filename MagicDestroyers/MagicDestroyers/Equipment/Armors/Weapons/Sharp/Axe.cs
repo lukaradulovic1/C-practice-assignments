@@ -8,16 +8,16 @@ namespace MagicDestroyers.Equipment.Weapons.Sharp
 {
    public class Axe : Sharp
     {
-        private const int DEFAULT_WEAPON_DAMAGE = 10;
+        private const int DEFAULT_DAMAGE_POINTS = 10;
 
         public Axe()
-            : this(DEFAULT_WEAPON_DAMAGE)
+            : this(DEFAULT_DAMAGE_POINTS)
         {
 
         }
         public Axe(int damagePoints)
         {
-            this.WeaponDamage = damagePoints;
+            this.DamagePoints = damagePoints;
         }
 
 

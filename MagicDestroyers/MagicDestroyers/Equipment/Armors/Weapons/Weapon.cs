@@ -8,24 +8,24 @@ namespace MagicDestroyers.Equipment.Weapons
 {
     public class Weapon
     {
-        private int weaponDamage;
+        private int damagePoints;
 
-        public virtual int WeaponDamage
+        public virtual int DamagePoints
         {
             get
             {
-                return weaponDamage;
+                return DamagePoints;
             }
 
             set
             {
                 if (value >= 1)
                 {
-                    weaponDamage = value;
+                    damagePoints = value;
                 }
                 else
                 {
-                    throw new ArgumentOutOfRangeException(string.Empty, $"The selected damage value of {weaponDamage} for the sword is too low. Needs to be greater than 0");
+                    throw new ArgumentOutOfRangeException(string.Empty, $"The selected damage value of {damagePoints} for the sword is too low. Needs to be greater than 0");
 
                 }
             }
