@@ -16,12 +16,7 @@ namespace MagicDestroyers.Characters.Spellcaster
         private readonly Staff DEFAULT_WEAPON = new Staff();
         private readonly LightLeatherWest DEFAULT_BODY_ARMOR = new LightLeatherWest();
         //fields
-        private int abilityPoints;
-        private int healthPoints;
-        private int level;
 
-        private Faction faction;
-        private string name;
 
         private LightLeatherWest bodyArmor;
         private Staff weapon;

@@ -17,12 +17,7 @@ namespace MagicDestroyers.Characters.Spellcaster
         private readonly Staff DEFAULT_WEAPON = new Staff();
         private readonly ClothRobe DEFAULT_BODY_ARMOR = new ClothRobe();
         //fields
-        private int abilityPoints;
-        private int healthPoints;
-        private int level;
 
-        private Faction faction;
-        private string name;
 
         private ClothRobe bodyArmor;
         private Staff weapon;

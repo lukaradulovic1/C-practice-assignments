@@ -15,7 +15,7 @@ namespace MagicDestroyers.Characters
         private Faction faction;
         private string name;
         // properties
-        public virtual int HealthPoints
+        public int HealthPoints
         {
             get
             {
@@ -23,7 +23,14 @@ namespace MagicDestroyers.Characters
             }
             set
             {
-                this.healthPoints = default;
+                if (value >= 0 && value <= 100)
+                {
+                    this.healthPoints = value;
+                }
+                else
+                {
+                    throw new ArgumentOutOfRangeException(string.Empty, "Inappropriate value, the value should be >= 0 and <= 100.");
+                }
             }
         }
         public virtual int Level
