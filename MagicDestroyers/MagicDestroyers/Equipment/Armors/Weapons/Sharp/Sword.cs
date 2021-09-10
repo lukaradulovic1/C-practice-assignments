@@ -4,11 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Equipment.Armors.Leather
+namespace MagicDestroyers.Equipment.Weapons.Sharp
 {
-    public class LightLeatherWest : Leather
+    public class Sword : Sharp
     {
         
-       
+
+        public void HackNSlash()
+        {
+
+        }
     }
 }

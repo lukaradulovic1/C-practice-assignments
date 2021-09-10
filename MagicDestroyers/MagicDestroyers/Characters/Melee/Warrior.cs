@@ -1,14 +1,12 @@
-﻿
-using System;
+﻿using System;
 using Enumerations;
-using MagicDestroyers.Characters.Melee;
-using MagicDestroyers.Equipment.Armors;
 
-using MagicDestroyers.Equipment.Weapons;
+using MagicDestroyers.Equipment.Armors.Heavy;
+using MagicDestroyers.Equipment.Weapons.Sharp;
 
 namespace MagicDestroyers.Characters.Melee
 {
-    public class Warrior : Character
+    public class Warrior : Melee 
     {
         //constants
         private const string DEFAULT_NAME = "Mezer Glin";
@@ -20,7 +18,7 @@ namespace MagicDestroyers.Characters.Melee
         private readonly Axe DEFAULT_WEAPON = new Axe();
 
         //private fiels
-        private int abilityPoints;
+
 
 
         private Chainlink bodyArmor;
@@ -38,33 +36,16 @@ namespace MagicDestroyers.Characters.Melee
         }
         public Warrior(string name, int level, int healthPoints)
         {
-            this.Name = name;
-            this.Level = level;
-            this.HealthPoints = healthPoints;
-            this.Faction = DEFAULT_FACTION;
-            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            base.Name = name;
+            base.Level = level;
+            base.HealthPoints = healthPoints;
+            base.Faction = DEFAULT_FACTION;
+            base.AbilityPoints = DEFAULT_ABILITY_POINTS;
             this.Weapon = DEFAULT_WEAPON;
             this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
-        public int AbilityPoints
-        {
-            get
-            {
-                return this.abilityPoints;
-            }
-            set
-            {
-                if (value >= 0 && value <= 10)
-                {
-                    this.abilityPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(Name, $"Incorrect input the ability points amount.");
-                }
-            }
-        }
+
 
 
 

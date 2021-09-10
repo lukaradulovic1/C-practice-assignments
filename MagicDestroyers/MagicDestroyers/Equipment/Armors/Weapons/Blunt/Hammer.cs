@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Equipment.Weapons
+namespace MagicDestroyers.Equipment.Weapons.Blunt
 {
-   public class Axe
+    public class Hammer : Blunt
     {
         private int weaponDamage;
 
@@ -31,7 +31,7 @@ namespace MagicDestroyers.Equipment.Weapons
             }
         }
 
-        public void Bloodthirst()
+        public void Stun()
         {
 
         }

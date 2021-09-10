@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MagicDestroyers.Equipment.Weapons
 {
-    public class Hammer
+    public class Weapon
     {
         private int weaponDamage;
 
-        public int WeaponDamage
+        public virtual int WeaponDamage
         {
             get
             {
@@ -29,11 +29,6 @@ namespace MagicDestroyers.Equipment.Weapons
 
                 }
             }
-        }
-
-        public void Stun()
-        {
-
         }
     }
 }

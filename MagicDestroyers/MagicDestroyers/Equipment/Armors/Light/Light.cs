@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace MagicDestroyers.Equipment.Armors.Light
 {
-    public class ClothRobe : Light
+    public class Light : Armor
     {
-       
     }
 }

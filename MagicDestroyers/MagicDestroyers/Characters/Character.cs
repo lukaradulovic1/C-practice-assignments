@@ -15,7 +15,7 @@ namespace MagicDestroyers.Characters
         private Faction faction;
         private string name;
         // properties
-        public int HealthPoints
+        public virtual int HealthPoints
         {
             get
             {
@@ -33,7 +33,7 @@ namespace MagicDestroyers.Characters
                 }
             }
         }
-        public int Level
+        public virtual int Level
         {
             get
             {
@@ -51,7 +51,7 @@ namespace MagicDestroyers.Characters
                 }
             }
         }
-        public Faction Faction
+        public virtual Faction Faction
         {
             get
             {
@@ -64,7 +64,7 @@ namespace MagicDestroyers.Characters
 
             }
         }
-        public string Name
+        public virtual string Name
         {
             get
             {

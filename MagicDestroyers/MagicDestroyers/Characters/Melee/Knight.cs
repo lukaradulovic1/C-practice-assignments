@@ -1,15 +1,12 @@
-﻿using MagicDestroyers.Equipment.Armors;
-using MagicDestroyers.Equipment.Weapons;
+﻿using MagicDestroyers.Equipment.Armors.Heavy;
+using MagicDestroyers.Equipment.Weapons.Blunt;
 using System;
 using Enumerations;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MagicDestroyers.Characters.Melee
 {
-    class Knight
+    public class Knight : Melee
     {   //constants
         private const string DEFAULT_NAME = "Sir Bearmane";
         private const Faction DEFAULT_FACTION = Faction.Melee;
@@ -20,12 +17,7 @@ namespace MagicDestroyers.Characters.Melee
         private readonly Hammer DEFAULT_WEAPON = new Hammer();
 
         //fields
-        private int abilityPoints;
-        private int healthPoints;
-        private int level;
 
-        private Faction faction;
-        private string name;
 
         private Chainlink bodyArmor;
         private Hammer weapon;
@@ -42,103 +34,16 @@ namespace MagicDestroyers.Characters.Melee
         }
         public Knight(string name, int level, int healthPoints)
         {
-            this.Name = name;
-            this.Level = level;
-            this.HealthPoints = DEFAULT_HEALTH_POINTS;
-            this.Faction = DEFAULT_FACTION;
+            base.Name = name;
+            base.Level = level;
+            base.HealthPoints = DEFAULT_HEALTH_POINTS;
+            base.Faction = DEFAULT_FACTION;
             this.AbilityPoints = DEFAULT_ABILITY_POINTS;
             this.Weapon = DEFAULT_WEAPON;
             this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
 
-
-
-        public int AbilityPoints
-        {
-            get
-            {
-                return this.abilityPoints;
-            }
-            set
-            {
-                if (value >= 0)
-                {
-                    this.abilityPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input the ability points amount.");
-                }
-            }
-        }
-
-        public int HealthPoints
-        {
-            get
-            {
-                return this.healthPoints;
-            }
-            set
-            {
-                if (value >= 0)
-                {
-                    this.healthPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input the health points amount.");
-                }
-            }
-        }
-        public int Level
-        {
-            get
-            {
-                return this.level;
-            }
-            set
-            {
-                if (value >= 0)
-                {
-                    this.level = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input for the character level.");
-                }
-            }
-        }
-        public Faction Faction
-        {
-            get
-            {
-                return this.faction;
-            }
-            set
-            {
-
-                this.faction = value;
-
-            }
-        }
-
-        public string Name
-        {
-            get
-            {
-                return this.name;
-            }
-
-            set
-            {
-                if (value.Length >= 3 && value.Length <= 12)
-                {
-                    this.name = value;
-                }
-            }
-
-        }
         public Chainlink BodyArmor
         {
             get

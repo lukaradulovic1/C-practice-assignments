@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Equipment.Weapons
+namespace MagicDestroyers.Equipment.Weapons.Blunt
 {
-    public class Staff
+    public class Staff : Blunt
     {
         private int weaponDamage;
 

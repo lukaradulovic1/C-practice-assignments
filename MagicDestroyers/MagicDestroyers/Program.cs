@@ -8,8 +8,8 @@ namespace MagicDestroyers
         static void Main(string[] args)
         {
 
-            Assasin assassin = new Assasin("locoloco", 10, 200);
-            Console.WriteLine(assassin.Name + " " + assassin.Level + " " + assassin.HealthPoints);
+            Assasin assassin = new Assasin();
+            Console.WriteLine(assassin.HealthPoints);
 
             
         }

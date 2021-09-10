@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicDestroyers.Equipment.Armors.Light
+namespace MagicDestroyers.Equipment.Weapons.Blunt
 {
-    public class ClothRobe : Light
+   public class Blunt : Weapon
     {
-       
     }
 }
