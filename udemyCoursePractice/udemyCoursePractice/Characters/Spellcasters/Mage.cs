@@ -26,6 +26,10 @@ namespace Characters.Spellcasters
             }
         }
 
+        public Mage()
+        {
+
+        }
         public Mage(int healthPoints, int weight, int age)
         : base(healthPoints, weight, age)
         {

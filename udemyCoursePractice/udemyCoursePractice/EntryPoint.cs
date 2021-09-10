@@ -17,8 +17,7 @@ public class EntryPoint
         Warrior fourthGuy = new Warrior(190, 100, "Mojito Cowboy", Enumerations.Faction.BadGuy);
 
         //spellcasters
-        Mage mageBoi = new Mage(100, 60, 25);
-        
+        Mage mageBoi = new();
 
         try
         {
