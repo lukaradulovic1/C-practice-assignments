@@ -10,7 +10,7 @@ namespace MagicDestroyers.Characters.Melee
     {
         private int abilityPoints;
 
-        public virtual int AbilityPoints
+        public int AbilityPoints
         {
             get
             {

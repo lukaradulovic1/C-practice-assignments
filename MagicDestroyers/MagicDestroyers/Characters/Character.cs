@@ -23,14 +23,7 @@ namespace MagicDestroyers.Characters
             }
             set
             {
-                if (value >= 0 && value <= 100)
-                {
-                    this.healthPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(name, $"Incorrect input the health points amount.");
-                }
+                this.healthPoints = default;
             }
         }
         public virtual int Level

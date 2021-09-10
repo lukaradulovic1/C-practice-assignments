@@ -45,8 +45,6 @@ namespace MagicDestroyers.Characters.Melee
 
 
 
-
-
         public LightLeatherWest BodyArmor
         {
             get

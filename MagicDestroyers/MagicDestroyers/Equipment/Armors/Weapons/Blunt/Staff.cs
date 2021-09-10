@@ -8,27 +8,16 @@ namespace MagicDestroyers.Equipment.Weapons.Blunt
 {
     public class Staff : Blunt
     {
-        private int weaponDamage;
+        private const int DEFAULT_WEAPON_DAMAGE = 10;
 
-        public int WeaponDamage
+        public Staff()
+            : this(DEFAULT_WEAPON_DAMAGE)
         {
-            get
-            {
-                return weaponDamage;
-            }
 
-            set
-            {
-                if (value >= 1)
-                {
-                    weaponDamage = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(string.Empty, $"The selected damage value of {weaponDamage} for the sword is too low. Needs to be greater than 0");
-
-                }
-            }
+        }
+        public Staff(int damagePoints)
+        {
+            this.WeaponDamage = damagePoints;
         }
 
         public void Empower()
