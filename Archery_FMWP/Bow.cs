@@ -1,22 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 
 public class Bow
 {
     private Arrow loadedArrow;
 
-    public void Load()
+    public void Load(Arrow arrow)
     {
-
+        loadedArrow = arrow;
     }
 
-    public void Shoot()
+    public Arrow Shoot()
     {
-
+        var arrow = loadedArrow;
+        loadedArrow = null;
+        return arrow;
     }
 }
 

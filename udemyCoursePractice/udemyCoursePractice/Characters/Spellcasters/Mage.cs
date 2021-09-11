@@ -40,5 +40,12 @@ namespace Characters.Spellcasters
             base.Move(pauseBetweenMovements);
             Console.WriteLine("I just moved 10 times, I am a Mage.");
         }
+
+        public void Addition(int firstNumber, int secondNumer)
+        {
+            int sum = firstNumber + secondNumer;
+            int modifiedSum = sum + 123;
+            Console.WriteLine(modifiedSum - 123);
+        }
     }
 }

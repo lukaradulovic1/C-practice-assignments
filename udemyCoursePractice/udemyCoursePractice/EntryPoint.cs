@@ -1,6 +1,8 @@
 ﻿using Characters.Warriors;
 using System;
 using Characters.Spellcasters;
+using Interfaces;
+
 public class EntryPoint
 {
 
@@ -13,7 +15,7 @@ public class EntryPoint
 
         Warrior thirdGuy = new Warrior(180, 200);
         thirdGuy.Name = "Yo soy en guerro";
-
+       
         Warrior fourthGuy = new Warrior(190, 100, "Mojito Cowboy", Enumerations.Faction.BadGuy);
 
         //spellcasters
@@ -28,7 +30,9 @@ public class EntryPoint
 
             Console.WriteLine(ex.Message);
         }
-        
+
+        firstGuy.Addition(5, 6);
+        mageBoi.Addition(5, 6);
         Console.WriteLine(mageBoi.HealhtPoints + " " + mageBoi.Age + " " + mageBoi.Weight);
         
         Tools.ColorfulWriteLine(firstGuy.Id.ToString(), ConsoleColor.DarkBlue);

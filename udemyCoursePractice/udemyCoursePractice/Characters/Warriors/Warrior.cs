@@ -1,4 +1,5 @@
 ﻿using Enumerations;
+using Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,8 @@ using Weapons;
 
 namespace Characters.Warriors
 {
-    public class Warrior : Character
+    public class Warrior : Character, ICalculator
+
     {
         //static field
         private static int idCounter;
@@ -164,5 +166,9 @@ namespace Characters.Warriors
             Console.WriteLine("I just moved 10 times, I am a Warrior.");
         }
 
+        public void Addition(int firstNumber, int secondNumber)
+        {
+            Console.WriteLine(firstNumber + secondNumber);
+        }
     }
 }
