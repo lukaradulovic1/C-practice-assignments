@@ -10,12 +10,12 @@ namespace Archery_FMWP
         private const double DELTA_TIME = 0.1;
         static void Main()
         {
-            
+
             Console.WriteLine("Type in the number of arrows: ");
             var numberOfArrows = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Type in the value for the accuracy: ");
-            var accuracyValue= double.Parse(Console.ReadLine());
+            var accuracyValue = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Type in the value for arrow velocity: ");
             var arrowVelocity = double.Parse(Console.ReadLine());
@@ -27,7 +27,7 @@ namespace Archery_FMWP
             var arrowMiss = 0;
 
             Archer archer = new(numberOfArrows, accuracyValue, arrowVelocity, distanceFromTarget);
-            
+
             for (int i = 0; i < numberOfArrows; i++)
             {
                 archer.LoadBow();
@@ -41,14 +41,22 @@ namespace Archery_FMWP
                     Console.WriteLine(arrow.DistanceFromTarget);
                 }
                 if (arrow.HitTarget)
-                    {
+                {
                     arrowHit++;
-                        Console.WriteLine($"{arrow} has hit the target");
-                    }
-                    else {Console.WriteLine($"{arrow} hasnt hit the target");
-                        
+                    Console.WriteLine($"{arrow} has hit the target");
+                    Console.WriteLine($"Total hits: {arrowHit}.");
+                    Console.WriteLine($"Total misses: {arrowMiss}.");
                 }
+                else
+                {
+                    arrowMiss++;
+                    Console.WriteLine($"{arrow} has missed the target");
+                    Console.WriteLine($"Total hits: {arrowHit}.");
+                    Console.WriteLine($"Total misses: {arrowMiss}.");
+                }
+                Console.WriteLine();
             }
+            Console.WriteLine($"\n\n\n\n\nFinal score is:\nArrow hits: {arrowHit}\nArrow missed: {arrowMiss} ");
         }
     }
 }
