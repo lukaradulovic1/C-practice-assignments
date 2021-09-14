@@ -59,6 +59,8 @@ public class EntryPoint
 
         PerformGreeting(charactersArray);
 
+
+        Console.WriteLine($"{firstGuy.Addition(100,50)}!!!!!!!!!!!!!!!!!!");
     }
 
     public static void PerformGreeting(IEnumerable<Character> listOfCharacters)
@@ -68,6 +70,8 @@ public class EntryPoint
             item.Greetings("Tod");
         }
     }
+
+
 
 }
 

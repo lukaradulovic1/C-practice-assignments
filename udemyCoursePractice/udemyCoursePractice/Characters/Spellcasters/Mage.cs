@@ -81,9 +81,9 @@ namespace Characters.Spellcasters
             this.mana = this.mana - mySpell.ManaCost;
         }
 
-        public override void Addition(int firstNumber, int secondNumber)
+        public override int Addition(int firstNumber, int secondNumber)
         {
-            throw new NotImplementedException();
+            return firstNumber + secondNumber;
         }
     }
 }

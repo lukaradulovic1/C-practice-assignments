@@ -99,9 +99,9 @@ public abstract class Character
         }
     }
 
-    public virtual void Addition(int firstNumber, int secondNumber)
+    public virtual int Addition(int firstNumber, int secondNumber)
     {
-        throw new ArgumentOutOfRangeException();
+        return firstNumber + secondNumber;
     }
 }
 

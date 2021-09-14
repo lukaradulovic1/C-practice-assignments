@@ -1,0 +1,16 @@
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.exe
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.deps.json
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.runtimeconfig.json
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.runtimeconfig.dev.json
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.dll
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\ref\MagicDestroyers_v1.dll
+C:\Users\Luka\source\repos\MagicDestroyers_v1\bin\Debug\net5.0\MagicDestroyers_v1.pdb
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.AssemblyInfo.cs
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.dll
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\ref\MagicDestroyers_v1.dll
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.pdb
+C:\Users\Luka\source\repos\MagicDestroyers_v1\obj\Debug\net5.0\MagicDestroyers_v1.genruntimeconfig.cache
