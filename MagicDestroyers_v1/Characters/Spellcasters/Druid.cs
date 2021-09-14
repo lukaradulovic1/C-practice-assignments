@@ -4,28 +4,25 @@ using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Armors.Light;
 using MagicDestroyers.Equipment.Weapons;
 using MagicDestroyers.Equipment.Weapons.Blunt;
+using MagicDestroyers_v1;
 
 namespace MagicDestroyers.Characters.Spellcaster
 {
     public class Druid : Spellcaster
     {
         //constants 
-        private const string DEFAULT_NAME = "Ruairidh Duncans";
-        private const Faction DEFAULT_FACTION = Faction.Spellcaster;
-        private const int DEFAULT_LEVEL = 1;
-        private const int DEFAULT_MANA_POINTS = 100;
-        private const int DEFAULT_HEALTH_POINTS = 100;
+
         private readonly Weapon DEFAULT_WEAPON = new Staff();
         private readonly Armor DEFAULT_BODY_ARMOR = new ClothRobe();
         //fields
 
         public Druid()
-            : this(DEFAULT_NAME, DEFAULT_LEVEL)
+            : this(Consts.Druid.NAME, Consts.Druid.LEVEL)
         {
 
         }
         public Druid(string name, int level)
-            : this(name, level, DEFAULT_HEALTH_POINTS)
+            : this(name, level, Consts.Druid.HEALTH_POINTS)
         {
 
         }
@@ -34,39 +31,41 @@ namespace MagicDestroyers.Characters.Spellcaster
             base.Name = name;
             base.Level = level;
             base.HealthPoints = healthPoints;
-            base.Faction = DEFAULT_FACTION;
-            base.ManaPoints = DEFAULT_MANA_POINTS;
+            base.Faction = Consts.Druid.FACTION;
+            base.ManaPoints = Consts.Druid.MANA_POINTS;
             base.Weapon = DEFAULT_WEAPON;
             base.BodyArmor = DEFAULT_BODY_ARMOR;
+            base.IsAlive = true;
+            base.Scores = 0;
         }
 
 
-        public void Moonfire()
+        public int Moonfire()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 20;
         }
-        public void Starburst()
+        public int Starburst()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 25;
         }
-        public void OneWithNature()
+        public int OneWithNature()
         {
-            throw new NotImplementedException();
-        }
-
-        public override void Attack()
-        {
-            throw new NotImplementedException();
+            return base.BodyArmor.ArmorPoints + 0;
         }
 
-        public override void Defend()
+        public override int Attack()
         {
-            throw new NotImplementedException();
+            return this.Moonfire();
         }
 
-        public override void SpecialAttack()
+        public override int Defend()
         {
-            throw new NotImplementedException();
+            return this.OneWithNature();
+        }
+
+        public override int SpecialAttack()
+        {
+            return this.Starburst();
         }
     }
 }

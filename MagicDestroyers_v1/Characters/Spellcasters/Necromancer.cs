@@ -4,6 +4,7 @@ using System;
 using Enumerations;
 using MagicDestroyers.Equipment.Weapons;
 using MagicDestroyers.Equipment.Armors;
+using MagicDestroyers_v1;
 
 namespace MagicDestroyers.Characters.Spellcaster
 {
@@ -20,12 +21,12 @@ namespace MagicDestroyers.Characters.Spellcaster
 
 
         public Necromancer()
-            : this(DEFAULT_NAME, DEFAULT_LEVEL)
+            : this(Consts.Necromancer.NAME, Consts.Necromancer.LEVEL)
         {
 
         }
         public Necromancer(string name, int level)
-            : this(name, level, DEFAULT_HEALTH_POINTS)
+            : this(name, level, Consts.Necromancer.HEALTH_POINTS)
         {
 
         }
@@ -34,40 +35,42 @@ namespace MagicDestroyers.Characters.Spellcaster
             base.Name = name;
             base.Level = level;
             base.HealthPoints = healthPoints;
-            base.Faction = DEFAULT_FACTION;
-            base.ManaPoints = DEFAULT_MANA_POINTS;
+            base.Faction = Consts.Necromancer.FACTION;
+            base.ManaPoints = Consts.Necromancer.MANA_POINTS;
             base.Weapon = DEFAULT_WEAPON;
             base.BodyArmor = DEFAULT_BODY_ARMOR;
+            base.IsAlive = true;
+            base.Scores = 0;
         }
 
 
 
-        public void ShadowRage()
+        public int ShadowRage()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 15;
         }
-        public void VampireTouch()
+        public int VampireTouch()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 30;
         }
-        public void BoneShield()
+        public int BoneShield()
         {
-            throw new NotImplementedException();
-        }
-
-        public override void Attack()
-        {
-            throw new NotImplementedException();
+            return base.BodyArmor.ArmorPoints + 5;
         }
 
-        public override void Defend()
+        public override int Attack()
         {
-            throw new NotImplementedException();
+            return this.ShadowRage();
         }
 
-        public override void SpecialAttack()
+        public override int Defend()
         {
-            throw new NotImplementedException();
+            return this.BoneShield();
+        }
+
+        public override int SpecialAttack()
+        {
+            return this.VampireTouch();
         }
     }
 }

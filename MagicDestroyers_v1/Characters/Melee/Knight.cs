@@ -2,17 +2,13 @@
 using MagicDestroyers.Equipment.Weapons.Blunt;
 using System;
 using Enumerations;
-
+using MagicDestroyers_v1;
 
 namespace MagicDestroyers.Characters.Melee
 {
     public class Knight : Melee
     {   //constants
-        private const string DEFAULT_NAME = "Sir Bearmane";
-        private const Faction DEFAULT_FACTION = Faction.Melee;
-        private const int DEFAULT_LEVEL = 1;
-        private const int DEFAULT_ABILITY_POINTS = 100;
-        private const int DEFAULT_HEALTH_POINTS = 120;
+
         private readonly Chainlink DEFAULT_BODY_ARMOR = new Chainlink();
         private readonly Hammer DEFAULT_WEAPON = new Hammer();
 
@@ -21,7 +17,7 @@ namespace MagicDestroyers.Characters.Melee
 
 
         public Knight()
-            : this(DEFAULT_NAME, DEFAULT_LEVEL)
+            : this(Consts.Knight.NAME, Consts.Knight.LEVEL)
         {
 
         }
@@ -34,58 +30,44 @@ namespace MagicDestroyers.Characters.Melee
         {
             base.Name = name;
             base.Level = level;
-            base.HealthPoints = DEFAULT_HEALTH_POINTS;
-            base.Faction = DEFAULT_FACTION;
-            this.AbilityPoints = DEFAULT_ABILITY_POINTS;
-            this.Weapon = DEFAULT_WEAPON;
-            this.BodyArmor = DEFAULT_BODY_ARMOR;
+            base.HealthPoints = healthPoints;
+            base.Faction = Consts.Assasin.FACTION;
+            base.AbilityPoints = Consts.Assasin.ABILITY_POINTS;
+            base.Weapon = DEFAULT_WEAPON;
+            base.BodyArmor = DEFAULT_BODY_ARMOR;
+            base.IsAlive = true;
+            base.Scores = 0;
         }
 
 
 
 
-        public override int HealthPoints
+
+        public int HolyBlow()
         {
-            get
-            {
-                return base.HealthPoints;
-            }
-            set
-            {
-                if (value >= 0 && value <= 150)
-                {
-                    base.HealthPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(string.Empty, "Inappropriate value, the value should be >= 0 and <= 100.");
-                }
-            }
+            return base.Weapon.DamagePoints + 15;
         }
-        public void HolyBlow()
+        public int PurifySoul()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 16;
         }
-        public void PurifySoul()
+        public int RighteousWings()
         {
-            throw new NotImplementedException();
+            return base.BodyArmor.ArmorPoints + 40;
         }
-        public void RighteousWings()
+        public override int Attack()
         {
-            throw new NotImplementedException();
-        }
-        public override void Attack()
-        {
-            throw new NotImplementedException();
+            return this.HolyBlow();
         }
 
-        public override void Defend()
+        public override int Defend()
         {
-            throw new NotImplementedException();
+            return this.RighteousWings();
         }
-        public override void SpecialAttack()
+        public override int SpecialAttack()
         {
-            throw new NotImplementedException();
+
+            return this.PurifySoul();
         }
     }
 }

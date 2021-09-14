@@ -4,17 +4,14 @@ using MagicDestroyers.Equipment.Armors;
 using MagicDestroyers.Equipment.Armors.Heavy;
 using MagicDestroyers.Equipment.Weapons;
 using MagicDestroyers.Equipment.Weapons.Sharp;
+using MagicDestroyers_v1;
 
 namespace MagicDestroyers.Characters.Melee
 {
     public class Warrior : Melee
     {
         //constants
-        private const string DEFAULT_NAME = "Mezer Glin";
-        private const Faction DEFAULT_FACTION = Faction.Melee;
-        private const int DEFAULT_LEVEL = 1;
-        private const int DEFAULT_HEALTH_POINTS = 100;
-        private const int DEFAULT_ABILITY_POINTS = 10;
+
         private readonly Armor DEFAULT_BODY_ARMOR = new Chainlink();
         private readonly Weapon DEFAULT_WEAPON = new Axe();
 
@@ -23,12 +20,12 @@ namespace MagicDestroyers.Characters.Melee
 
 
         public Warrior()
-            : this(DEFAULT_NAME, DEFAULT_LEVEL)
+            : this(Consts.Warrior.NAME, Consts.Warrior.LEVEL)
         {
 
         }
         public Warrior(string name, int level)
-        : this(name, level, DEFAULT_HEALTH_POINTS)
+        : this(name, level, Consts.Warrior.HEALTH_POINTS)
         {
 
         }
@@ -37,59 +34,46 @@ namespace MagicDestroyers.Characters.Melee
             base.Name = name;
             base.Level = level;
             base.HealthPoints = healthPoints;
-            base.Faction = DEFAULT_FACTION;
-            base.AbilityPoints = DEFAULT_ABILITY_POINTS;
+            base.Faction = Consts.Warrior.FACTION;
+            base.AbilityPoints = Consts.Warrior.ABILITY_POINTS;
             base.Weapon = DEFAULT_WEAPON;
             base.BodyArmor = DEFAULT_BODY_ARMOR;
+            base.IsAlive = true;
+            base.Scores = 0;
         }
 
 
 
-        public override int HealthPoints
-        {
-            get
-            {
-                return base.HealthPoints;
-            }
-            set
-            {
-                if (value >= 0 && value <= 150)
-                {
-                    base.HealthPoints = value;
-                }
-                else
-                {
-                    throw new ArgumentOutOfRangeException(string.Empty, "Inappropriate value, the value should be >= 0 and <= 150.");
-                }
-            }
-        }
+
         // methods
-        public void Strike()
+        public int Strike()
         {
-            throw new NotImplementedException();
-        }
-        public void Execute()
-        {
-            throw new NotImplementedException();
-        }
-        public void SkinHarden()
-        {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 10;
         }
 
-        public override void Attack()
+        public int Execute()
         {
-            throw new NotImplementedException();
+            return base.Weapon.DamagePoints + 20;
         }
 
-        public override void Defend()
+        public int SkinHarden()
         {
-            throw new NotImplementedException();
+            return base.BodyArmor.ArmorPoints + 5;
         }
 
-        public override void SpecialAttack()
+        public override int Attack()
         {
-            throw new NotImplementedException();
+            return this.Strike();
+        }
+
+        public override int SpecialAttack()
+        {
+            return this.Execute();
+        }
+
+        public override int Defend()
+        {
+            return this.SkinHarden();
         }
     }
 }

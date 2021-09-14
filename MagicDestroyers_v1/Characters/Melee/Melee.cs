@@ -18,7 +18,7 @@ namespace MagicDestroyers.Characters.Melee
             }
             set
             {
-                if (value >= 0 && value <= 10)
+                if (value >= 0 && value <= 100)
                 {
                     this.abilityPoints = value;
                 }

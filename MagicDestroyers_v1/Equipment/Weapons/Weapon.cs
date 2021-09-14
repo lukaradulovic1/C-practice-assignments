@@ -14,7 +14,7 @@ namespace MagicDestroyers.Equipment.Weapons
         {
             get
             {
-                return DamagePoints;
+                return this.damagePoints;
             }
 
             set
