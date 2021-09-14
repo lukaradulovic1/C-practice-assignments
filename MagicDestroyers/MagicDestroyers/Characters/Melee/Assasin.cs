@@ -16,9 +16,6 @@ namespace MagicDestroyers.Characters.Melee
         private readonly Sword DEFAULT_WEAPON = new Sword();
 
         //fields
-        
-
-
         private LightLeatherWest bodyArmor;
         private Sword weapon;
 
@@ -89,15 +86,30 @@ namespace MagicDestroyers.Characters.Melee
         }
         public void Raze()
         {
-
+            throw new NotImplementedException();
         }
         public void BleedToDeath()
         {
-
+            throw new NotImplementedException();
         }
         public void SkinHarden()
         {
+            throw new NotImplementedException();
+        }
 
+        public override void Attack()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Defend()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void SpecialAttack()
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -70,15 +70,30 @@ namespace MagicDestroyers.Characters.Spellcaster
         }
         public void Moonfire()
         {
-
+            throw new NotImplementedException();
         }
         public void Starburst()
         {
-
+            throw new NotImplementedException();
         }
         public void OneWithNature()
         {
+            throw new NotImplementedException();
+        }
 
+        public override void Attack()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Defend()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void SpecialAttack()
+        {
+            throw new NotImplementedException();
         }
     }
 }

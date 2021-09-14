@@ -4,20 +4,17 @@ namespace Weapons
 {
     public class Weapon
     {
-        private int damage;
+        private int damage = 10;
 
 
         public int Damage
         {
             get
             {
-                return damage;
+                return this.damage;
             }
 
-            private set
-            {
-                this.damage = value;
-            }
+
         }
     }
 }

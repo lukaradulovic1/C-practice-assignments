@@ -64,17 +64,34 @@ namespace MagicDestroyers.Characters.Spellcaster
                 this.weapon = value;
             }
         }
+        // methods
         public void ArcaneWrath()
         {
-
+            throw new NotImplementedException();
         }
+
         public void Firewall()
         {
-
+            throw new NotImplementedException();
         }
         public void Meditation()
         {
+            throw new NotImplementedException();
+        }
 
+        public override void Attack()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Defend()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void SpecialAttack()
+        {
+            throw new NotImplementedException();
         }
     }
 }

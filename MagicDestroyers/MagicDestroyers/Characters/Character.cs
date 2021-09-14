@@ -1,13 +1,11 @@
 ﻿using Enumerations;
+using MagicDestroyers.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MagicDestroyers.Characters
 {
-    public class Character
+    public abstract class Character : IAttack, IDefend
     {   // fields
         private int healthPoints;
         private int level;
@@ -80,5 +78,9 @@ namespace MagicDestroyers.Characters
             }
 
         }
+
+        public abstract void Attack();
+        public abstract void Defend();
+        public abstract void SpecialAttack();
     }
 }

@@ -5,11 +5,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using udemyCoursePractice.Characters;
 using Weapons;
 
 namespace Characters.Warriors
 {
-    public class Warrior : Character, ICalculator
+    public class Warrior : Melee, ICalculator
 
     {
         //static field
@@ -112,11 +113,11 @@ namespace Characters.Warriors
         {
             get
             {
-                return swordWeapon;
+                return this.swordWeapon;
             }
             set
             {
-                swordWeapon = value;
+                this.swordWeapon = value;
             }
         }
         public static int IdCounter
@@ -166,9 +167,9 @@ namespace Characters.Warriors
             Console.WriteLine("I just moved 10 times, I am a Warrior.");
         }
 
-        public void Addition(int firstNumber, int secondNumber)
+        public override void Addition(int firstNumber, int secondNumber)
         {
-            Console.WriteLine(firstNumber + secondNumber);
+            throw new NotImplementedException();
         }
     }
 }

@@ -45,10 +45,6 @@ namespace MagicDestroyers.Characters.Melee
             this.BodyArmor = DEFAULT_BODY_ARMOR;
         }
 
-
-
-
-
         public Axe Weapon
         {
             get
@@ -90,18 +86,33 @@ namespace MagicDestroyers.Characters.Melee
                 }
             }
         }
-                public void Strike()
+        // methods
+        public void Strike()
         {
-
+            throw new NotImplementedException();
         }
         public void Execute()
         {
-
+            throw new NotImplementedException();
         }
         public void SkinHarden()
         {
-
+            throw new NotImplementedException();
         }
 
+        public override void Attack()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Defend()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void SpecialAttack()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

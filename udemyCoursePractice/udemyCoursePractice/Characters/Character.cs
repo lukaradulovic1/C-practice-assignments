@@ -1,22 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Interfaces;
+using System;
+
 using System.Threading;
-using System.Threading.Tasks;
 
 
-public class Character
+
+public abstract class Character 
+
 {
-    //fields
+    // fields
     private string name;
     protected int healthPoints;
     protected int weight;
     protected int age;
 
+    // interface
+     
 
 
-    //properties
+    // properties
     public int HealhtPoints
     {
         get
@@ -70,7 +72,7 @@ public class Character
             name = value;
         }
     }
-    //constructors
+    // constructors
 
     public Character() 
     {
@@ -83,7 +85,7 @@ public class Character
         this.Weight = weight;
         this.Age = age;
     }
-    protected void Greetings(string name)
+    public void Greetings(string name)
     {
         Console.WriteLine($@"{this.name} greets {name}");
     }
@@ -95,6 +97,11 @@ public class Character
             Console.WriteLine("I am moving.");
             Thread.Sleep(1000);
         }
+    }
+
+    public virtual void Addition(int firstNumber, int secondNumber)
+    {
+        throw new ArgumentOutOfRangeException();
     }
 }
 

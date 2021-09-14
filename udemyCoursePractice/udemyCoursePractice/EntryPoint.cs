@@ -2,47 +2,72 @@
 using System;
 using Characters.Spellcasters;
 using Interfaces;
+using System.Collections.Generic;
 
 public class EntryPoint
 {
 
     static void Main()
     {
-        //warriors
-        Warrior firstGuy = new Warrior();
-       // firstGuy.Move(500);
-        Warrior secondGuy = new Warrior(200, 100);
+        // warriors
+        Warrior firstGuy = new Warrior(150, 50, "joe", Enumerations.Faction.GoodGuy);
 
-        Warrior thirdGuy = new Warrior(180, 200);
-        thirdGuy.Name = "Yo soy en guerro";
-       
-        Warrior fourthGuy = new Warrior(190, 100, "Mojito Cowboy", Enumerations.Faction.BadGuy);
-
-        //spellcasters
+        // mages
         Mage mageBoi = new();
-
-        try
-        {
-            mageBoi.Age = 25;
-        }
-        catch (ArgumentOutOfRangeException ex)
-        {
-
-            Console.WriteLine(ex.Message);
-        }
-
-        firstGuy.Addition(5, 6);
-        mageBoi.Addition(5, 6);
-        Console.WriteLine(mageBoi.HealhtPoints + " " + mageBoi.Age + " " + mageBoi.Weight);
         
-        Tools.ColorfulWriteLine(firstGuy.Id.ToString(), ConsoleColor.DarkBlue);
-        Tools.ColorfulWriteLine(secondGuy.Id.ToString(), ConsoleColor.Yellow);
-        Tools.ColorfulWriteLine(thirdGuy.Id.ToString(), ConsoleColor.Red);
-        Tools.ColorfulWriteLine(fourthGuy.Id.ToString(), ConsoleColor.Magenta);
-        
+
+        Console.WriteLine("warrior hp is "+ firstGuy.HealhtPoints);
+        Console.WriteLine("Mage mana is " + mageBoi.Mana);
+
+        mageBoi.CastSpell(firstGuy);
+
+        Console.WriteLine("warrior hp is now " + firstGuy.HealhtPoints);
+        Console.WriteLine("Mage mana is now " + mageBoi.Mana);
+
+
+        Character warriorSecondDude = new Warrior();
+
+        List<Character> theCharacters = new List<Character>();
+        List<ICalculator> calculators = new List<ICalculator>();
+
+        calculators.Add(firstGuy);
+        calculators.Add(mageBoi);
+
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(mageBoi);
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(firstGuy);
+        theCharacters.Add(firstGuy);
+
+        PerformGreeting(theCharacters);
+
+        foreach (var character in theCharacters)
+        {
+            if(character is Warrior)
+            {
+                Warrior tempWarrior = character as Warrior;
+                Console.WriteLine(tempWarrior.SwordWeapon.Damage);
+            }
+        }
+
+        Character[] charactersArray = new Character[2];
+        charactersArray[0] = mageBoi;
+        charactersArray[1] = firstGuy;
+
+        PerformGreeting(charactersArray);
+
     }
 
-
+    public static void PerformGreeting(IEnumerable<Character> listOfCharacters)
+    {
+        foreach (var item in listOfCharacters)
+        {
+            item.Greetings("Tod");
+        }
+    }
 
 }
 

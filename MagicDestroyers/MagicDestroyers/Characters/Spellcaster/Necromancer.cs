@@ -68,15 +68,30 @@ namespace MagicDestroyers.Characters.Spellcaster
 
         public void ShadowRage()
         {
-
+            throw new NotImplementedException();
         }
         public void VampireTouch()
         {
-
+            throw new NotImplementedException();
         }
         public void BoneShield()
         {
+            throw new NotImplementedException();
+        }
 
+        public override void Attack()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Defend()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void SpecialAttack()
+        {
+            throw new NotImplementedException();
         }
     }
 }
