@@ -1,6 +1,6 @@
-Mezer Glin,2,1
-Sir Bearmane,7,1
-,1,1
-Griphiar,2,1
+Mezer Glin,3,1
+Sir Bearmane,9,1
+,0,1
+Griphiar,4,1
 ,0,1
 ,0,1
