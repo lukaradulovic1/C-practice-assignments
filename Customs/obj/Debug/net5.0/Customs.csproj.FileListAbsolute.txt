@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\ref\Customs.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\bin\Debug\net5.0\Customs.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\ref\Customs.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Customs\obj\Debug\net5.0\Customs.genruntimeconfig.cache
