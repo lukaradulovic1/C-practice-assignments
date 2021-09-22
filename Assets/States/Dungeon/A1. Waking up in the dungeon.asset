@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337b3ec87071c4146bfcab30b3be3f6d, type: 3}
+  m_Name: A1. Waking up in the dungeon
+  m_EditorClassIdentifier: 
+  storyText: "You are in a dark dungeon. Skeletons of dead bafoons all around you.
+    One has a golden tooth. Probably was a rapper or something.\r\nOutside the dungeon
+    entrance are the guards. Shit is wack, yo.\r\n\r\nYou think about running out
+    and fighting your way through or pulling a sneaky. \r\n\r\nWhich one do you choose?\r\n\r\n1.
+    Go HAM and try to fight 10 guards.\r\n2. Go sneaky and escape silently.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: afce167f9613233409df21223cec92fc, type: 2}
+  - {fileID: 11400000, guid: 26a1b68b176385d49aefc8fb1eb081cb, type: 2}

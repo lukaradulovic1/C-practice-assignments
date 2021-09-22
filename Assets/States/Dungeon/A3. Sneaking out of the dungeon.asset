@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337b3ec87071c4146bfcab30b3be3f6d, type: 3}
+  m_Name: A3. Sneaking out of the dungeon
+  m_EditorClassIdentifier: 
+  storyText: '
+
+    A3. Sneaking out of the dungeon
+
+    
+
+    You got the key
+    and open the dungeon door. As sneaky as you could you look around and see the
+    guards sleeping on the left, the door to the wine cellar, stairs going somewhere
+    upstairs and perhaps a chance to lead to escaping.
+
+    
+
+    1. Go to wine
+    cellar due to having an alcohol addiction
+
+    2. Go up to the stairs and see
+    what you can find there
+
+    
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 8f7b4286cc8fbe841bc0e9be3c5d1846, type: 2}
+  - {fileID: 11400000, guid: 8364bba427b89a74fbae208f4d972767, type: 2}
