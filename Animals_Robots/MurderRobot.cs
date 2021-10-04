@@ -13,7 +13,7 @@ namespace Animals_Robots
         {
             Console.WriteLine($"{name} is driving around.");
         }
-        public void Kill()
+        public virtual void Kill()
         {
             Console.WriteLine($"{name} has killed someone");
         }
