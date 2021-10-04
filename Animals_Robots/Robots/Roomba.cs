@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-   public class Roomba : Robot
+    public class Roomba : Robot
     {
         private readonly string name = "Willy";
-        public override void Drive()
+        private readonly Engine engine = new();
+        private readonly Vacuum vacuum = new();
+        public void Drive()
         {
-            Console.WriteLine($"{name} is driving around");
+            engine.Drive();
         }
+
         public void Clean()
         {
-            Console.WriteLine($"{name} is cleaning.");
+            vacuum.Clean(name);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Animals_Robots.Auxilary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,13 +10,15 @@ namespace Animals_Robots
     public class MurderRobot : Robot
     {
         private readonly string name = "Murder bot 3000";
-        public override void Drive()
+        private readonly Engine engine = new();
+        private readonly Laser laser = new();
+        public void Drive()
         {
-            Console.WriteLine($"{name} is driving around.");
+            engine.Drive();
         }
-        public virtual void Kill()
+        public void Kill()
         {
-            Console.WriteLine($"{name} has killed someone");
+            laser.Kill();
         }
     }
 }

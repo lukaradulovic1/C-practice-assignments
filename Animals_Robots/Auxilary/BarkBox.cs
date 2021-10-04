@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-    public class Robot
+   public class BarkBox
     {
-        public virtual void Drive()
+        public virtual void Bark(string name)
         {
-            Console.WriteLine("Robot is driving around.");
+            Console.WriteLine($"{name} has barked.");
         }
-
     }
 }

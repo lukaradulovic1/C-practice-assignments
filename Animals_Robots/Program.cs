@@ -12,16 +12,24 @@ namespace Animals_Robots
             // robots
             var RoombaChaChaCha = new Roomba();
             var DustOTron = new MurderRobot();
-            
+            var KillaMurderRobotDoggo = new MurderRobotDog();
+
             Rex.Bark();
             Rex.Poop();
+
             Kitty.Meow();
             Kitty.Poop();
 
             RoombaChaChaCha.Clean();
             RoombaChaChaCha.Drive();
+
             DustOTron.Drive();
             DustOTron.Kill();
+
+            KillaMurderRobotDoggo.Bark();
+            KillaMurderRobotDoggo.Kill();
+            KillaMurderRobotDoggo.Poop();
+
 
         }
     }

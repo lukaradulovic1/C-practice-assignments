@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-    public class Animal
+    public class MeowBox
     {
-        public virtual void Poop()
+        public virtual void Meow(string name)
         {
-            Console.WriteLine("The animal has pooped.");
+            Console.WriteLine($"{name} has meowed.");
         }
     }
 }

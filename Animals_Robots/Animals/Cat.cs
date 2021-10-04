@@ -8,14 +8,16 @@ namespace Animals_Robots
 {
    public  class Cat : Animal
     {
+        Butt butt = new();
+        private readonly MeowBox meowBox = new MeowBox();
         private readonly string name = "Kitty";
         public override void Poop()
         {
-            Console.WriteLine($"{name} has pooped.");
+            butt.Poop();
         }
-        public  void Meow()
+        public void Meow()
         {
-            Console.WriteLine($"{name} has meowed.");
+            meowBox.Meow(name);
         }
     }
 }
