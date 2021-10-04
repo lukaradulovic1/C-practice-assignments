@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\ref\Animals_Robots.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\bin\Debug\net5.0\Animals_Robots.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\ref\Animals_Robots.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Animals_Robots\obj\Debug\net5.0\Animals_Robots.genruntimeconfig.cache
