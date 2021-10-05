@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-    public class Roomba : Robot
+    public class Roomba 
     {
         private readonly string name = "Willy";
         private readonly Engine engine = new();

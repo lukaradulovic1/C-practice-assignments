@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-   public  class Cat : Animal
+   public  class Cat 
     {
         Butt butt = new();
         private readonly MeowBox meowBox = new MeowBox();
         private readonly string name = "Kitty";
-        public override void Poop()
+        public void Poop()
         {
             butt.Poop();
         }

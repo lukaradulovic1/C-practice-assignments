@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Animals_Robots
 {
-    public class MurderRobotDog : Robot
+    public class MurderRobotDog 
     {
         private readonly string name = "Barkotron Prime 6000";
         private readonly Laser laser = new();
