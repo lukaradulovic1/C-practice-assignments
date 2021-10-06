@@ -8,47 +8,27 @@ namespace mythical_menagerie_abstraction
 {//Each mythical creature should have a name, affiliated deity, area, alignment, and special ability
     public abstract class MythicalCreature
     {
-        private readonly string name;
-        private readonly string affiliatedDiety;
-        private readonly string area;
-        private readonly string alignment;
-        private readonly string specialAbility;
 
-        public string Name
+        public abstract string Name
         {
-            get 
-            { 
-                return this.name; 
-            }
+            get;
         }
-        public string AffiliatedDiety
+        public abstract string AffiliatedDiety
         {
-            get
-            {
-                return this.affiliatedDiety;
-            }
+            get;
         }
-        public string Area
+        public abstract string Area
         {
-            get 
-            { 
-                return this.area; 
-            }
+            get;
         }
 
-        public string Alignment
+        public abstract string Alignment
         {
-            get 
-            { 
-                return this.alignment; 
-            }
+            get;
         }
-        public string SpecialAbility 
-        { 
-            get 
-            { 
-                return this.specialAbility;
-            } 
+        public abstract string SpecialAbility 
+        {
+            get;
         }
 
         //public MythicalCreature(string name, string affiliatedDiety, string area, string alignment, string specialAbility)

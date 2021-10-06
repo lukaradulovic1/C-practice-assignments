@@ -8,9 +8,7 @@ namespace mythical_menagerie_abstraction
 {
     public class Cerberus : MythicalCreature
     {
-        Cerberus cerberus = new Cerberus();
 
-        public override 
         
     }
 }
