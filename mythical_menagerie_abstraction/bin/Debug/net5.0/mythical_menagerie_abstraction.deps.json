@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mythical_menagerie_abstraction/1.0.0": {
+        "runtime": {
+          "mythical_menagerie_abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mythical_menagerie_abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

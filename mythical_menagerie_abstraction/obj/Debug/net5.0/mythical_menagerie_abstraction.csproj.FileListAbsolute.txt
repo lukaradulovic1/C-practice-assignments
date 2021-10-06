@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\ref\mythical_menagerie_abstraction.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\bin\Debug\net5.0\mythical_menagerie_abstraction.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\ref\mythical_menagerie_abstraction.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\mythical_menagerie_abstraction\obj\Debug\net5.0\mythical_menagerie_abstraction.genruntimeconfig.cache
