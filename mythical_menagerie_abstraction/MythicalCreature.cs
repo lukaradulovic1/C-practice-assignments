@@ -6,29 +6,66 @@ using System.Threading.Tasks;
 
 namespace mythical_menagerie_abstraction
 {//Each mythical creature should have a name, affiliated deity, area, alignment, and special ability
-    public class MythicalCreature
+    public abstract class MythicalCreature
     {
-        private string name;
-        private string affiliatedDiety;
-        private string area;
-        private string alignment;
-        private string specialAbility;
+        private readonly string name;
+        private readonly string affiliatedDiety;
+        private readonly string area;
+        private readonly string alignment;
+        private readonly string specialAbility;
 
-        public MythicalCreature(string name, string affiliatedDiety, string area, string alignment, string specialAbility)
+        public string Name
         {
-            this.name = name;
-            this.affiliatedDiety = affiliatedDiety;
-            this.area = area;
-            this.alignment = alignment;
-            this.specialAbility = specialAbility;
-
+            get 
+            { 
+                return this.name; 
+            }
         }
+        public string AffiliatedDiety
+        {
+            get
+            {
+                return this.affiliatedDiety;
+            }
+        }
+        public string Area
+        {
+            get 
+            { 
+                return this.area; 
+            }
+        }
+
+        public string Alignment
+        {
+            get 
+            { 
+                return this.alignment; 
+            }
+        }
+        public string SpecialAbility 
+        { 
+            get 
+            { 
+                return this.specialAbility;
+            } 
+        }
+
+        //public MythicalCreature(string name, string affiliatedDiety, string area, string alignment, string specialAbility)
+        //{
+        //    this.name = name;
+        //    this.affiliatedDiety = affiliatedDiety;
+        //    this.area = area;
+        //    this.alignment = alignment;
+        //    this.specialAbility = specialAbility;
+
+        //}
 
 
 
         public override string ToString()
         {
-            string info = name + " " + affiliatedDiety + " " + area + " " + alignment + " " + specialAbility;
+            string info = Name + " " + AffiliatedDiety + " " + Area + " " + Alignment + " " + SpecialAbility;
             return info;
         }
     }

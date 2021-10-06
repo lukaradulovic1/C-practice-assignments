@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace mythical_menagerie_abstraction
 {
-    class Cerberus
+    public class Cerberus : MythicalCreature
     {
+        Cerberus cerberus = new Cerberus();
+
+        public override 
+        
     }
 }

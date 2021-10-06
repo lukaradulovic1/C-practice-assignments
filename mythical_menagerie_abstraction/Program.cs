@@ -13,48 +13,52 @@ namespace mythical_menagerie_abstraction
 
         static void Main()
         {
-            var creatureList = new List<MythicalCreature>();
-            var choice = "";
-            bool loopCreating = true;
+            
 
-            Console.WriteLine("Would you like to create a mythical creature? Y/N");
-            choice = Console.ReadLine();
+        }
 
-            if (choice == "Y")
-            {
-                while (loopCreating)
-                {
-                    Console.WriteLine("Type in the name of creature: ");
-                    var name = Console.ReadLine();
 
-                    Console.WriteLine("Type in affiliated deity: ");
-                    var affiliatedDiety = Console.ReadLine();
+        public static void MainMenuOptions()
+        {
+            //var creatureList = new List<MythicalCreature>();
+            //var choice = "";
 
-                    Console.WriteLine("Type in desired area:");
-                    var area = Console.ReadLine();
+            //while (true)
+            //{
+            //    Console.WriteLine("Would you like to create a mythical creature? Y/N");
+            //    choice = Console.ReadLine();
+            //    if (choice == "N")
+            //    {
+            //        break;
+            //    }
 
-                    Console.WriteLine("Type in chosen alignment: ");
-                    var alignment = Console.ReadLine();
+            //    Console.WriteLine("Type in the name of creature: ");
+            //    var name = Console.ReadLine();
 
-                    Console.WriteLine("Type in special ability: ");
-                    var specialAbility = Console.ReadLine();
+            //    Console.WriteLine("Type in affiliated deity: ");
+            //    var affiliatedDiety = Console.ReadLine();
 
-                    var mythicalCreature = new MythicalCreature(name, affiliatedDiety, area, alignment, specialAbility);
-                    creatureList.Add(mythicalCreature);
+            //    Console.WriteLine("Type in desired area:");
+            //    var area = Console.ReadLine();
 
-                    foreach (var creature in creatureList)
-                    {
-                        Console.WriteLine(creature.ToString());
-                    }
+            //    Console.WriteLine("Type in chosen alignment: ");
+            //    var alignment = Console.ReadLine();
 
-                    if (choice == "N")
-                    {
-                        loopCreating = false;
-                        break;
-                    }
-                }
+            //    Console.WriteLine("Type in special ability: ");
+            //    var specialAbility = Console.ReadLine();
 
-            }
+            //    var mythicalCreature = new MythicalCreature(name, affiliatedDiety, area, alignment, specialAbility);
+            //    creatureList.Add(mythicalCreature);
+
+            //    foreach (var creature in creatureList)
+            //    {
+            //        Console.WriteLine(creature.ToString());
+            //    }
+
+
+            //}
+            return;
         }
     }
 }
+
