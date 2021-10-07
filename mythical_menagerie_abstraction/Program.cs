@@ -13,8 +13,16 @@ namespace mythical_menagerie_abstraction
 
         static void Main()
         {
-            
-
+            var cerberus = new Cerberus();
+            var hydra = new Hydra();
+            var cyclops = new Cyclops();
+            var medusa = new Medusa();
+            var pegasus = new Pegasus();
+            Console.WriteLine(hydra.ToString());
+            Console.WriteLine(cerberus.ToString());
+            Console.WriteLine(cyclops.ToString());
+            Console.WriteLine(medusa.ToString());
+            Console.WriteLine(pegasus.ToString());
         }
 
 

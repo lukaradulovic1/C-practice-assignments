@@ -8,11 +8,13 @@ namespace mythical_menagerie_abstraction
 {
     public class Cerberus : MythicalCreature
     {
+
+
         public override string Name
         {
             get
             {
-                return Name;
+                return "Cerberus";
             }
         }
 
@@ -20,7 +22,7 @@ namespace mythical_menagerie_abstraction
         {
             get
             {
-                return AffiliatedDiety;
+                return "Hades";
             }
         }
 
@@ -28,7 +30,7 @@ namespace mythical_menagerie_abstraction
         {
             get
             {
-                return Area;
+                return "Greece";
             }
         }
 
@@ -36,7 +38,7 @@ namespace mythical_menagerie_abstraction
         {
             get
             {
-                return Alignment;
+                return "something";
             }
         }
 
@@ -44,8 +46,15 @@ namespace mythical_menagerie_abstraction
         {
             get
             {
-                return SpecialAbility;
+                return "Huge 3-headed dog";
             }
+        }
+        public override string ToString()
+        {
+            string info = Name + " " + AffiliatedDiety + " " + Area + " " + Alignment + " " + SpecialAbility;
+             
+            return info;
+            
         }
     }
 }
