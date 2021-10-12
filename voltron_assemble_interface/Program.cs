@@ -2,11 +2,18 @@
 
 namespace voltron_assemble_interface
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var voltron = new Voltron();
+            voltron.Assemble(100);
+
+            Console.WriteLine(voltron.CurrentHealth);
+            Console.WriteLine(voltron.Move());
+            voltron.Special();
+            voltron.TakeDamage(50);
+            Console.WriteLine($"Voltron attack value is {voltron.Attack()}");
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "voltron_assemble_interface/1.0.0": {
+        "runtime": {
+          "voltron_assemble_interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "voltron_assemble_interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

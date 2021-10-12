@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\ref\voltron_assemble_interface.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\bin\Debug\net5.0\voltron_assemble_interface.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\ref\voltron_assemble_interface.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\voltron_assemble_interface\obj\Debug\net5.0\voltron_assemble_interface.genruntimeconfig.cache
