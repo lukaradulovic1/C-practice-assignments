@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7JU6IjupPhifdHlpUP7nuaupzx2ueBu5iej5qmF4JrZ2cm6YwjcPVAn5u+yqH1aPoen+Lz4tUVgpJJbDWPiNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka\\source\\repos\\DITest\\DITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
