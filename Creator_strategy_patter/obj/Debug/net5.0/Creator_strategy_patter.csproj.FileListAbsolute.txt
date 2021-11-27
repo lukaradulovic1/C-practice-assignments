@@ -1,0 +1,16 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.exe
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.runtimeconfig.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.runtimeconfig.dev.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\ref\Creator_strategy_patter.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\bin\Debug\net5.0\Creator_strategy_patter.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\ref\Creator_strategy_patter.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\Creator_strategy_patter\obj\Debug\net5.0\Creator_strategy_patter.genruntimeconfig.cache
