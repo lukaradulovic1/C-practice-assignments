@@ -10,3 +10,4 @@ Creator_strategy_patter/.vs/Creator_strategy_patter/v16/.suo
 *.props
 *.json
 MinimalAPIWeekdayCheck/MinimalAPIWeekdayCheck/obj/Debug/net6.0/MinimalAPIWeekdayCheck.GeneratedMSBuildEditorConfig.editorconfig
+MinimalWebAPIWeekDayCheck/MinimalWebAPIWeekDayCheck/bin/Debug/net6.0/ref/MinimalWebAPIWeekDayCheck.dll
