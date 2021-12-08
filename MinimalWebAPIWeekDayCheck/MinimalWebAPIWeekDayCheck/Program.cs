@@ -4,25 +4,26 @@ var app = builder.Build();
 
 var workingDays = new List<string> { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
 
-string ReturnDayName(int indexNumber)
+string ReturnDayName(int dayNumber)
 {
-    string dayInfo = "";
-    if (indexNumber <= 4)
+    int untilFriday = 4;
+    string specificDay = "";
+    if (dayNumber <= untilFriday)
     {
-        dayInfo = workingDays[indexNumber];
+        specificDay = workingDays[dayNumber];
     }
     else
     {
-        dayInfo = "You have chosen an incorrect value.";
+        specificDay = "You have chosen an incorrect value.";
     };
 
-    return dayInfo;
+    return specificDay;
 }
 
-bool DayType(string dayName)
+bool CheckDayType(string checkDay)
 {
     bool dayWorking = true;
-    if(dayName.ToLower() == "Saturday".ToLower() || dayName.ToLower() == "Sunday".ToLower())
+    if(checkDay.ToLower() == "Saturday".ToLower() || checkDay.ToLower() == "Sunday".ToLower())
     {
         dayWorking = false;
     }
@@ -41,7 +42,7 @@ app.MapGet("/week/{index:int}", (int index) => ReturnDayName(index));
 app.MapPost("/week/addday/{dayName}", (string dayName) => workingDays.Add(dayName));
 
 // check if the day is a working or nonworking day
-app.MapGet("week/checkday/{dayName}", (string dayName) => DayType(dayName));
+app.MapGet("week/checkday/{dayName}", (string dayName) => CheckDayType(dayName));
 
 app.Run();
 
