@@ -4,7 +4,7 @@ var app = builder.Build();
 
 var workingDays = new List<string> { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
 
-string WorkingNotWorkingDayCheck(int indexNumber)
+string ReturnDayName(int indexNumber)
 {
     string dayInfo = "";
     if (indexNumber <= 4)
@@ -19,7 +19,7 @@ string WorkingNotWorkingDayCheck(int indexNumber)
     return dayInfo;
 }
 
-bool CheckIfWorkingOrWeekendDay(string dayName)
+bool DayType(string dayName)
 {
     bool dayWorking = true;
     if(dayName.ToLower() == "Saturday".ToLower() || dayName.ToLower() == "Sunday".ToLower())
@@ -35,13 +35,13 @@ bool CheckIfWorkingOrWeekendDay(string dayName)
 app.MapGet("/week", () => workingDays);
 
 // return specific day of the week
-app.MapGet("/week/{index:int}", (int index) => WorkingNotWorkingDayCheck(index));
+app.MapGet("/week/{index:int}", (int index) => ReturnDayName(index));
 
 // add day to week
 app.MapPost("/week/addday/{dayName}", (string dayName) => workingDays.Add(dayName));
 
 // check if the day is a working or nonworking day
-app.MapGet("week/checkday/{dayName}", (string dayName) => CheckIfWorkingOrWeekendDay(dayName));
+app.MapGet("week/checkday/{dayName}", (string dayName) => DayType(dayName));
 
 app.Run();
 
