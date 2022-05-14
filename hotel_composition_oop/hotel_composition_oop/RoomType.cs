@@ -1,5 +1,6 @@
 ﻿public enum RoomType
-{ //if guestNumber == n (roomType = some of the types based on number
+{ 
+    // If guestNumber == n (roomType = some of the types based on number
     Single,
     Double,
     Triple,

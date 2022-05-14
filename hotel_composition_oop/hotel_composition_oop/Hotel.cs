@@ -4,19 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-// add a room, remove a room, clear all rooms, print the hotel spec to console, print the hotel spec to a file
+
+// dd a room, remove a room, clear all rooms, print the hotel spec to console, print the hotel spec to a file
 public class Hotel
 {
     private readonly List<HotelFloor> hotelFloors;
 
-
-
-    public Hotel()
+    private Hotel()
     {
         hotelFloors = new();
-
     }
 
+    private static Hotel _hotelInstance;
+
+    public static Hotel GetHotelInstance()
+    {
+        if( _hotelInstance == null)
+        {
+            _hotelInstance = new Hotel();
+        }
+        return _hotelInstance;
+    }
 
     public void AddRoom(int floorNumber, HotelRoom room)
     {
