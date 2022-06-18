@@ -1,0 +1,15 @@
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\bin\Debug\netstandard2.0\XamarinTestApp.deps.json
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\bin\Debug\netstandard2.0\XamarinTestApp.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\bin\Debug\netstandard2.0\XamarinTestApp.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.AssemblyInfoInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.AssemblyInfo.cs
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\refint\XamarinTestApp.dll
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\XamarinTestApp.pdb
+C:\Users\Luka\Documents\GitHub\crispy-doodle\XamarinTestApp\XamarinTestApp\obj\Debug\netstandard2.0\ref\XamarinTestApp.dll

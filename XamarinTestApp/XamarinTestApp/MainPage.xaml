@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTestApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#DeepPink" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Antistress app!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Button Text="Click Me" Clicked="Handle_Clicked" />
+
+        <Label Text="Press the Antistress button 10 times to reduce stress." FontSize="Title" Padding="30,10,30,10"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+        </Label>
+    </StackLayout>
+
+</ContentPage>
