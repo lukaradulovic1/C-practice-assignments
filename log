@@ -1,0 +1,502 @@
+[33mcommit f207208e4f16eba7a9751dafd98308bed40f390c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Luka_Radulovic <luka.radulovic.011@gmail.com>
+Date:   Sat Jun 18 18:46:50 2022 +0200
+
+    Xamarin test app
+
+[33mcommit 0299fd4e1a0ee6581aff49dfa2a09881bf1b9d48[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sat May 14 14:11:52 2022 +0200
+
+    Converted the classes to a singleton pattern class
+
+[33mcommit 5b76e25e33bfb357b2e772123f05dd13e7a673d7[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:34:53 2021 +0100
+
+    Update .suo
+
+[33mcommit f25ad1eec1fa8c22ee57d5448fd8915c687ca7d8[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:30:59 2021 +0100
+
+    again
+
+[33mcommit 3a60198af3f4484f322e0c019aeecf56fb84eea1[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:28:30 2021 +0100
+
+    days renamed
+
+[33mcommit 8bfb8754e9882fd7dbefaf8ceabcae2847e29bcf[m
+Merge: f46345b a4618a3
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:17:45 2021 +0100
+
+    Merge branch 'main' of https://github.com/lukaradulovic1/C-practice-assignments
+
+[33mcommit f46345beb924464b907c13742c790dbc7875ad30[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:16:45 2021 +0100
+
+    updated naming convention for methods
+
+[33mcommit a4618a3d01ee00b0fa35399a66a8ed6e64b78d12[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Dec 8 13:03:14 2021 +0100
+
+    Delete MinimalAPIWeekdayCheck directory
+
+[33mcommit c9f166fc9ce1cc21a9ea298dbd9e58962109054f[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Dec 8 13:02:42 2021 +0100
+
+    added methods
+
+[33mcommit 19938bdb8d710ae8d94e4535cd7bf3ce85213251[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Dec 7 20:28:39 2021 +0100
+
+    Update .gitignore
+
+[33mcommit f14c6c3b9a711ac198718560d13ebb12cc8ce06f[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Dec 7 20:28:01 2021 +0100
+
+    Added a list
+
+[33mcommit 9b5e55ee4d650993320b7613088ea84fd93f7ca5[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Dec 6 23:26:26 2021 +0100
+
+    Added GET and POST methods to a String list
+
+[33mcommit 9e45dcb231cf676dc9fd0f7dddbac1ee53e68605[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sat Nov 27 22:04:00 2021 +0100
+
+    Added ignore
+
+[33mcommit c57384186f3c2473a000beb0ee950b302ccdceaf[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Nov 17 15:00:42 2021 +0100
+
+    Delete DITest directory
+
+[33mcommit a611906c313e00501168ac8798704a32a8aba025[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Nov 17 13:28:17 2021 +0100
+
+    Update .gitignore
+
+[33mcommit 5e0978f09e7c21bfc3179cf06203930c679c3388[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Nov 17 13:27:58 2021 +0100
+
+    Create .gitignore
+
+[33mcommit 60f81621e730a1ae67b935ced63f1f619d410c6a[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Nov 15 17:08:03 2021 +0100
+
+    Corrected constructor code, added constructors for Adress and Person, override of ToString methods
+
+[33mcommit 6b2893022d7b97d214d5cd9fb5a307fc5c62e8d6[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Oct 13 00:49:09 2021 +0200
+
+    final version, assembled
+
+[33mcommit a42c126b2196199908e08507cf846ec914bddbbf[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Thu Oct 7 23:30:09 2021 +0200
+
+    v
+
+[33mcommit 8787ce4c0f9574c1d3e459ffdbbb72f367fbc36c[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Thu Oct 7 16:44:20 2021 +0200
+
+    test
+
+[33mcommit 3364c7ee5571ceeb24c8feb94a989fb254585bd5[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Thu Oct 7 16:40:07 2021 +0200
+
+    updated classes, overriden tostring
+
+[33mcommit 3e0c6f2d24d654ac059e06baae5b3d67b314a7a7[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Oct 6 15:35:32 2021 +0200
+
+    a
+
+[33mcommit 68e197e37961e743623a67fc22300de853e48e60[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Oct 6 14:52:07 2021 +0200
+
+    getter removed
+
+[33mcommit e4ddd90082d7c510746a56954aa5cb733f1e1ff3[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Oct 6 14:45:37 2021 +0200
+
+    add
+
+[33mcommit 8df7d103be4c3071344d308b67c5e6b9fd269693[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Oct 6 14:12:09 2021 +0200
+
+    Multiple corrections
+
+[33mcommit 495b3b3987194a325e0263970ec74e28d850640c[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Oct 5 07:10:42 2021 +0200
+
+    removed redundant classes
+
+[33mcommit 7130ac9a7b2abe96408d2ade05db8a01452f5498[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Oct 4 22:58:20 2021 +0200
+
+    poop test
+
+[33mcommit 9617bb0efaeb8e46aceac184efa8702bdf889ec1[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Oct 4 21:57:33 2021 +0200
+
+    attempted composition in murderDogClass
+
+[33mcommit 84f8de0684f4b6092726444bb3c5e7bed13f009a[m
+Merge: dc5c724 875af4f
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Oct 4 19:45:51 2021 +0200
+
+    Merge branch 'main' of https://github.com/lukaradulovic1/C-practice-assignments into main
+
+[33mcommit dc5c724516615ed7d15c497fe89efdf84bc616fd[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Oct 4 19:45:37 2021 +0200
+
+    Added classes
+
+[33mcommit 875af4f1161be93f0f4a493e482e500bda655d9c[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Fri Sep 24 14:14:15 2021 +0200
+
+    Delete family_kids_grandkids directory
+
+[33mcommit fab15174b58eb8127ed4621ea2c4ffdd5ef96f41[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Sep 22 13:59:36 2021 +0200
+
+    Delete Text101.sln
+
+[33mcommit 479c312d0e33adfea94fe22ec677f81689c0993c[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Sep 22 13:59:34 2021 +0200
+
+    Delete Assets directory
+
+[33mcommit 38605c52cad0123b47b6387f4c75e10f047ddf34[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Sep 22 13:59:13 2021 +0200
+
+    Delete Assembly-CSharp.csproj
+
+[33mcommit da0ea796bde74dd1c389c40ddaf5a0b40d687473[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Wed Sep 22 13:58:34 2021 +0200
+
+    Add files via upload
+
+[33mcommit 1a030fb3becc8060f3b2496b6514efaeea53e340[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Sep 22 13:33:08 2021 +0200
+
+    finished
+
+[33mcommit 25ce70d5a525467ae619e5353003c422e21a4001[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 21 23:33:14 2021 +0200
+
+    final v
+
+[33mcommit ac466384b232f96789a717100eb60530866f6140[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 17:09:02 2021 +0200
+
+    e
+
+[33mcommit 02f2869de5a8b1137b172b30d43f1f77193cf282[m
+Merge: 95d1eff 8bac708
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 16:37:45 2021 +0200
+
+    Merge branch 'main' of https://github.com/lukaradulovic1/crispy-doodle into main
+
+[33mcommit 95d1eff8d68ca1f232750f8a20d708e705d294f1[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 16:37:42 2021 +0200
+
+    big oof
+
+[33mcommit 1d6bacfeca29ffbe5da750f02e45687dac990907[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 16:19:04 2021 +0200
+
+    done
+
+[33mcommit 8bac7087d1bbcb786ee3820a5951fe7ec8a60c9e[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Tue Sep 14 13:19:04 2021 +0200
+
+    Delete MagicDestroyers directory
+
+[33mcommit 8d7b0508cf49f49d03d21fd89fcfeb5e2cce90ee[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 13:18:27 2021 +0200
+
+    update
+
+[33mcommit 7630a7a49e2b66ceccfe4ce504c17055a969b82e[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 14 11:10:48 2021 +0200
+
+    updates
+
+[33mcommit 9a922fbcca430b4b87194ffe8d18d954d5c20786[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Sep 12 08:21:24 2021 +0200
+
+    finished product
+
+[33mcommit 636e5c8fd4f0f2b77bb9a11ce534fa7afced3236[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sat Sep 11 12:31:00 2021 +0200
+
+    score prelim done
+
+[33mcommit 6253ca886b821f23a94ad270101df9e9b4187b13[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 14:18:48 2021 +0200
+
+    a
+
+[33mcommit 5ead141e4d86989e4215a79d8180adae9841315d[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 14:12:13 2021 +0200
+
+    update
+
+[33mcommit 4d108082e0e8a4b5281b996bb14daeebd21f9fc1[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 13:58:27 2021 +0200
+
+    a
+
+[33mcommit 7c34d40f5e1883434c13101832dcb239eac0b1f5[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 13:38:04 2021 +0200
+
+    corrected damage points naming
+
+[33mcommit de2f07ee6cb710d1cc16f1311807e97947e839e5[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 13:34:05 2021 +0200
+
+    weapon damage corrected
+
+[33mcommit 0223e2dcf8561f7034963ed7d243ab936854d811[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 13:01:37 2021 +0200
+
+    Update .suo
+
+[33mcommit be2241b3430bbe9e42e1b8a577c5bdb0e710688e[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 12:59:09 2021 +0200
+
+    added virtual and all needed classes
+
+[33mcommit f810c57bda9c023acd7c85dead213a62a697c90c[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 12:27:06 2021 +0200
+
+    proper file
+
+[33mcommit 1bf2eb4f53257388843fde7419877565cc135e2e[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 11:22:34 2021 +0200
+
+    age issue corrected, added mage default constructor
+
+[33mcommit 0efd9a26e25e8f32bb41aae1f1ef20a2193201d1[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Fri Sep 10 11:15:57 2021 +0200
+
+    age issue
+
+[33mcommit 0c388783b855704de131435ee90034e36d6daf3d[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Sep 8 16:35:39 2021 +0200
+
+    a
+
+[33mcommit 7302d7d5c79f0a27e3a7bb15db1ce75c5262f7f8[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Sep 8 14:04:19 2021 +0200
+
+    Update Arrow.cs
+
+[33mcommit 42e138f78a2008782bfec65c7c1fa1d87b73f4c2[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Sep 8 14:03:24 2021 +0200
+
+    arrow update
+
+[33mcommit b77f945d333bfb4aa42af73f3c07940f7b36d696[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Wed Sep 8 13:07:26 2021 +0200
+
+    unfinished update
+
+[33mcommit 08d7b5418cc4310b4da28116f1f3bd4b7f5ad67a[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 7 20:24:19 2021 +0200
+
+    added to gitty
+
+[33mcommit 837583849793128eb781697cd4907790b4c5970b[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 7 20:23:21 2021 +0200
+
+    added to git, udemy course game
+
+[33mcommit 488c9cd39e87905cf8a554269c925c9883dec407[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Tue Sep 7 20:21:22 2021 +0200
+
+    added to git
+
+[33mcommit f5af71ed9c461c824397121b35697db90f48579f[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Tue Aug 31 16:37:49 2021 +0200
+
+    Delete FightTest directory
+
+[33mcommit 69bb3fcd8cd597f8c9bca7b1071bc27d17eaff82[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Tue Aug 31 16:37:32 2021 +0200
+
+    Delete FightTest.sln
+
+[33mcommit 9667d3e0e56ebeffcacf5d74d411a5fd2879aef4[m
+Author: lukaradulovic1 <85028352+lukaradulovic1@users.noreply.github.com>
+Date:   Tue Aug 31 16:35:10 2021 +0200
+
+    Add files via upload
+
+[33mcommit a41ab9c80c972e764252c86fca95e97159a3b360[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Aug 30 23:03:07 2021 +0200
+
+    something something
+
+[33mcommit 5132d207bc475aa304ecbc344fdb667f46ca3c0a[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Aug 30 22:41:53 2021 +0200
+
+    hotel class made private
+
+[33mcommit d775a8dbf49689c3d29e6f57eb12b11439321805[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Aug 30 22:39:02 2021 +0200
+
+    singleton changed
+
+[33mcommit 1511a549cc170ec35ab7236760cb55916a768282[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Aug 30 13:52:35 2021 +0200
+
+    added previous hotel oop data
+
+[33mcommit 7f2f5baa2f7831d66993442b9cf308e7b2183dcd[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Mon Aug 30 13:48:31 2021 +0200
+
+    hotel tweaks
+
+[33mcommit 0806721757b57de9d6626c9c7a3bbd50a319b231[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:25:04 2021 +0200
+
+    print hotel string refactor
+
+[33mcommit 10bb94e64e3503abb5a158bc3311042110870614[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:20:11 2021 +0200
+
+    removed speclist
+
+[33mcommit 57cd97d58326425b0764360821c65858b1617b2c[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:18:10 2021 +0200
+
+    remove unneccesary tryparse
+
+[33mcommit 1a9847f80e052dfbfc76b903490499c673ff99c8[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:15:32 2021 +0200
+
+    loop continue rename
+
+[33mcommit 58b354c2a3b1f900d69e64adec856011f38d2ec3[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:11:43 2021 +0200
+
+    write txt file refactor
+
+[33mcommit 6de40afac2f289d8c8a6a5efd6b766439255117a[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:06:37 2021 +0200
+
+    hotelFloor remove room refactor
+
+[33mcommit cc7c96e59ca8f01d237436f62e9d230ce6aff548[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 20:02:49 2021 +0200
+
+    null search fix
+
+[33mcommit 5e84f2af9fe4538cc366973d0ea8c3d05e916593[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 19:42:00 2021 +0200
+
+    print method rename
+
+[33mcommit 65d80dce3a6e7ab3f69aea824eed0c3b59eec99a[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 19:33:40 2021 +0200
+
+    removeRoom refactor
+
+[33mcommit 09f22ea61afc921a5cac4789b7b2a90612cb778d[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 19:31:50 2021 +0200
+
+    hotelFloor refactoring
+
+[33mcommit f5e48f85c5819edad5de9eb949e71297a448857d[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 19:15:16 2021 +0200
+
+    formatted hotel class
+
+[33mcommit 1e639c95f1b835ac451ff1ec501eb850183fa980[m
+Author: lukaradulovic1 <luka.radulovic.011@gmail.com>
+Date:   Sun Aug 29 19:10:18 2021 +0200
+
+    initial commit
+    
+    first!!!!
